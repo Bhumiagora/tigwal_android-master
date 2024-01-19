@@ -1,0 +1,1430 @@
+[
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_star.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_star.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_selected.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_selected.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_chat_list.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\activity_chat_list.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_camera.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-hdpi\\ic_camera.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialoge_chooselanguage_view.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\dialoge_chooselanguage_view.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_white_rect_border_fill_chat.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable\\white_rect_border_fill_chat.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_border_dialoge_view.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable\\border_dialoge_view.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_img_placeholder.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-hdpi\\img_placeholder.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_img_order_success.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-mdpi\\img_order_success.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chat_reciever_view.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable\\chat_reciever_view.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_arrow_back.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxxhdpi\\arrow_back.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_notification.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\fragment_notification.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_edit.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-mdpi\\ic_edit.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_user.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_unchecked.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_unchecked.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_fill_checkbox.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_fill_checkbox.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_lock.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_lock.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_send.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_send.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_star.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_star.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_red_bg.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable\\round_red_bg.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_calendar.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-hdpi\\ic_calendar.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_popup_window.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\popup_window.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_dashboard_category_list.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\row_dashboard_category_list.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_arrow_next.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xhdpi\\arrow_next.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_social_google.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_social_google.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_filter.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-hdpi\\ic_filter.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_progress_dialog.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\custom_progress_dialog.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_fill_corner_gray.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable\\background_fill_corner_gray.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_lock.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_lock.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_chat_fill.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_chat_fill.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_footer_home.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_footer_home.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_user.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_footer_setting.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-mdpi\\ic_footer_setting.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_chat_fill.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-hdpi\\ic_chat_fill.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sub_category.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\activity_sub_category.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\font_poppins_regular.ttf.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\font\\poppins_regular.ttf"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_star.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_star.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_product_banner_imgage.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\row_product_banner_imgage.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_delete.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_delete.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_default_profile.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xhdpi\\default_profile.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_notifications.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-mdpi\\icon_notifications.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_footer_home.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-hdpi\\ic_footer_home.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_social_facebook.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-mdpi\\ic_social_facebook.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_camera.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_camera.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_pwd_hide.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_pwd_hide.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_back_arrow.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xhdpi\\back_arrow.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_footer_home.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_footer_home.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_bottom.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\anim\\slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_checkbox.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable\\checkbox.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_send.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_send.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_footer_home.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-mdpi\\ic_footer_home.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_plus.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_plus.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_arrow_back.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxhdpi\\arrow_back.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_selected.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-mdpi\\ic_selected.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_top.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\anim\\slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_email.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_email.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\font_poppins_light.ttf.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\font\\poppins_light.ttf"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_social_google.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_social_google.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_send.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_send.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_chat_listing.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\row_chat_listing.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_border_rating_bg.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable\\border_rating_bg.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_cart.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\fragment_cart.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_img_order_success.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxhdpi\\img_order_success.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_clock.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_clock.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_call.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_call.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_img_calender.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xhdpi\\img_calender.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_spinner_item.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\row_spinner_item.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_default_photo.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-mdpi\\default_photo.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_img_calender.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-hdpi\\img_calender.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_filter.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_filter.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_footer_setting.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-hdpi\\ic_footer_setting.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_checked.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_checked.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_footer_notification.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_footer_notification.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_dashboard_recommendation_list.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\row_dashboard_recommendation_list.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_banner_bg.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\layout_banner_bg.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_email.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-hdpi\\ic_email.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_plus.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_plus.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialoge_add_note.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\dialoge_add_note.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_footer_notification.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_footer_notification.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_toolbar_home.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\layout_toolbar_home.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_selected.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_selected.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_pwd_show.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-hdpi\\ic_pwd_show.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_img_add_note.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-hdpi\\img_add_note.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_email.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_email.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_selected.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_selected.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_img_order_success.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxxhdpi\\img_order_success.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_next_arrow.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xhdpi\\next_arrow.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_close.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_close.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_menu_bar_bottom.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\layout_menu_bar_bottom.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_default_profile.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxxhdpi\\default_profile.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_search.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-mdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_edit.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_edit.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_user.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-mdpi\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_img_add_note.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xhdpi\\img_add_note.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_chat_fill.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_chat_fill.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_border_gray_edittext_bg.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable\\border_gray_edittext_bg.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_category_list.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\layout_category_list.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_border_blue_rect_bgview.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable\\border_blue_rect_bgview.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_arrow_back.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-mdpi\\arrow_back.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_no_animation.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\anim\\no_animation.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_star.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable\\ic_star.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_viewpager_bg.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\layout_viewpager_bg.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_footer_notification.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-mdpi\\ic_footer_notification.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_change_language_list.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\row_change_language_list.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_fill_checkbox.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_fill_checkbox.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_lock.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_lock.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_social_google.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-hdpi\\ic_social_google.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_clock.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-mdpi\\ic_clock.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_chat_fill.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_chat_fill.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_border_unfill_blue.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable\\border_unfill_blue.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_rectangle_bg_blue.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable\\img_rectangle_bg_blue.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_default_photo.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxxhdpi\\default_photo.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_verify_otp.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\activity_verify_otp.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_arrow_back.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-hdpi\\arrow_back.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_email.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-mdpi\\ic_email.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_search.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_plus.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-mdpi\\ic_plus.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_flag_arabic.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-hdpi\\flag_arabic.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_send.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-hdpi\\ic_send.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_edit.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_edit.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_footer_setting.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_footer_setting.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_call.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_call.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_white_rect_border.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable\\white_rect_border.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_category_list.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\row_category_list.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_pwd_hide.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_pwd_hide.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_img_placeholder.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxhdpi\\img_placeholder.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_star.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-mdpi\\ic_star.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_trans_right_in.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\anim\\trans_right_in.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\font_poppins_medium.ttf.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\font\\poppins_medium.ttf"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_trans_left_in.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\anim\\trans_left_in.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_email.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_email.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_star.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-hdpi\\ic_star.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_social_facebook.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_social_facebook.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_default_profile.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-mdpi\\default_profile.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_pwd_hide.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_pwd_hide.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_close.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_close.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\xml_file_paths.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_on_going_order.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\fragment_on_going_order.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_common_layout.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\common_layout.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_drawer_content.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\drawer_content.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_call.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_call.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_sub_category_list.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\row_sub_category_list.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_blue_border_bg.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable\\blue_border_bg.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_forgot_password.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\activity_forgot_password.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_img_calender.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-mdpi\\img_calender.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_footer_notification.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-hdpi\\ic_footer_notification.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_camera.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-mdpi\\ic_camera.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_data_not_found.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\layout_data_not_found.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_pwd_hide.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-mdpi\\ic_pwd_hide.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_notifications.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_notifications.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_banner_imgage.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\row_banner_imgage.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_fill_checkbox.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_fill_checkbox.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\font_poppins_bold.ttf.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\font\\poppins_bold.ttf"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_img_add_note.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-mdpi\\img_add_note.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_footer_notification.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_footer_notification.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_arrow_down.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxxhdpi\\arrow_down.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_view_all_category.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\activity_view_all_category.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_img_calender.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxhdpi\\img_calender.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_product_list.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\activity_product_list.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_filter.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\dialog_filter.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_arrow_down.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxhdpi\\arrow_down.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_order_receive.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\activity_order_receive.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_notifications.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxhdpi\\icon_notifications.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_img_calender.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxxhdpi\\img_calender.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_cancel_order.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\activity_cancel_order.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_search.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-hdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_footer_cart.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-mdpi\\ic_footer_cart.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\font_poppins_bold_new.ttf.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\font\\poppins_bold_new.ttf"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_banner_dummy.jpeg.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable\\img_banner_dummy.jpeg"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_camera.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_camera.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_translate_dialog_out.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\anim\\translate_dialog_out.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_cms_screen.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\activity_cms_screen.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_checked.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_checked.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_language.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\activity_language.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_user.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-hdpi\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_animation_localization_activity_transition_out.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\anim\\animation_localization_activity_transition_out.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_next_arrow.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-mdpi\\next_arrow.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_plus.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-hdpi\\ic_plus.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_corner_top.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable\\rounded_corner_top.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_arrow_down.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-hdpi\\arrow_down.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_delete.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-hdpi\\ic_delete.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_profile_edittext.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable\\background_profile_edittext.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_order_summary_item.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\row_order_summary_item.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_next_arrow.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-hdpi\\next_arrow.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_default_profile.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-hdpi\\default_profile.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_back_arrow.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-hdpi\\back_arrow.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_map.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable\\ic_map.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_pwd_show.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_pwd_show.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_default_photo.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xhdpi\\default_photo.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_close.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-hdpi\\ic_close.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_profile.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_img_add_note.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxxhdpi\\img_add_note.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_calendar.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_calendar.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_arrow_down.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-mdpi\\arrow_down.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialoge_user_aggreement.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\dialoge_user_aggreement.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_footer_home.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_footer_home.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_receive_order.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable\\background_receive_order.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_product_listing.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\row_product_listing.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_top.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\anim\\slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_pwd_show.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-mdpi\\ic_pwd_show.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_lock.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-hdpi\\ic_lock.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_backgrond_border_social.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable\\backgrond_border_social.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_back_arrow.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-mdpi\\back_arrow.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_signin.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\layout_signin.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_img_add_note.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxhdpi\\img_add_note.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_arrow_next.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxhdpi\\arrow_next.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_bottom.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\anim\\slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_thumb.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable\\custom_thumb.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_reset_password.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\activity_reset_password.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_arrow_next.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxxhdpi\\arrow_next.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_backgrond_profile_view.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable\\backgrond_profile_view.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendar.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_calendar.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_close.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_close.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_gender.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable\\img_gender.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_border_white_text_box_bg.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable\\border_white_text_box_bg.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_footer_cart.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_footer_cart.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_signup.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\layout_signup.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_back_arrow.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxhdpi\\back_arrow.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_backgrond_border_otp.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable\\backgrond_border_otp.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_search.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_flag_arabic.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxxhdpi\\flag_arabic.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialoge_custom_single_button.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\dialoge_custom_single_button.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_delete.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_delete.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_ongoing_list.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\row_ongoing_list.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_splash_bg.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable\\img_splash_bg.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_img_placeholder.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxxhdpi\\img_placeholder.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_camera.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_camera.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_chat_fill.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-mdpi\\ic_chat_fill.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_social_google.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-mdpi\\ic_social_google.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_img_placeholder.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-mdpi\\img_placeholder.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_default_profile.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxhdpi\\default_profile.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\xml_network_security_config.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_send.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-mdpi\\ic_send.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_toolbar.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\layout_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_arrow_back.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xhdpi\\arrow_back.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_flag_arabic.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-mdpi\\flag_arabic.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_no_data.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable\\img_no_data.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_border_button_blue_app.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable\\border_button_blue_app.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_checked.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_checked.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_edit.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_edit.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_cancel_order.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\layout_cancel_order.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\font_poppins_bold_midium_new.ttf.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\font\\poppins_bold_midium_new.ttf"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_product_detail.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\activity_product_detail.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_chat.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\row_chat.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_track.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable\\custom_track.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_filter.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_filter.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_social_facebook.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-hdpi\\ic_social_facebook.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_bg.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable\\button_bg.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_trans_border_gray.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable\\round_trans_border_gray.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_checked.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-mdpi\\ic_checked.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_selected.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-hdpi\\ic_selected.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_chat_sender_view.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\row_chat_sender_view.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_pwd_show.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_pwd_show.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_next_arrow.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxxhdpi\\next_arrow.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialoge_custom_two_button.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\dialoge_custom_two_button.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_user.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_edit.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-hdpi\\ic_edit.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_notification.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\row_notification.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_plus.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_plus.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_calendar.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-mdpi\\ic_calendar.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_setting.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\fragment_setting.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_corner_blue_bg.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable\\round_corner_blue_bg.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_animation_localization_activity_transition_in.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\anim\\animation_localization_activity_transition_in.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_checked.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-hdpi\\ic_checked.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_unchecked.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-hdpi\\ic_unchecked.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_on_going_orders_row.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\on_going_orders_row.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_delete.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_delete.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_notifications.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-hdpi\\icon_notifications.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_unchecked.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_unchecked.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_bottom_location_dialoge.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\bottom_location_dialoge.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_arrow_next.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-hdpi\\arrow_next.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_footer_cart.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_footer_cart.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_default_photo.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-hdpi\\default_photo.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_social_google.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_social_google.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_pwd_show.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_pwd_show.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_close.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-mdpi\\ic_close.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_payment_option.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\activity_payment_option.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_main_logo_transparent.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable\\main_logo_transparent.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_call.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-mdpi\\ic_call.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_footer_setting.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_footer_setting.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_timeslot_list.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\row_timeslot_list.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_arrow_next.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-mdpi\\arrow_next.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_clock.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_clock.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_border_fill_blue_theme.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable\\border_fill_blue_theme.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_bluer_bg.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable\\img_bluer_bg.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\font_poppins_semibold.ttf.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\font\\poppins_semibold.ttf"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_currency.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\item_currency.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_flag_arabic.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xhdpi\\flag_arabic.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tigwal_banner_second.jpeg.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable\\tigwal_banner_second.jpeg"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_footer_cart.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_footer_cart.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chat_sender_view.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable\\chat_sender_view.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_search.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_img_order_success.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-hdpi\\img_order_success.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_calendar.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_calendar.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_back_arrow.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxxhdpi\\back_arrow.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialoge_custom_review_add.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\dialoge_custom_review_add.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_fill_checkbox.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-hdpi\\ic_fill_checkbox.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_change_password.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\activity_change_password.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_recommendation_list.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\row_recommendation_list.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_cart_item.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\row_cart_item.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_order_summary.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\activity_order_summary.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bottom_menu_circle_white_bg.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable\\bottom_menu_circle_white_bg.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_fill_checkbox.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-mdpi\\ic_fill_checkbox.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_trans_right_out.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\anim\\trans_right_out.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_flag_arabic.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxhdpi\\flag_arabic.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_fill_corner_light_blue.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable\\background_fill_corner_light_blue.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_category_grid.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\layout_category_grid.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_delete.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-mdpi\\ic_delete.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_notifications.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xhdpi\\icon_notifications.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_unchecked.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-mdpi\\ic_unchecked.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_searchproduct_list.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\activity_searchproduct_list.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_chat_reciever_view.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\row_chat_reciever_view.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_social_facebook.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_social_facebook.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_clock.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_clock.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_dashboard.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_pwd_hide.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-hdpi\\ic_pwd_hide.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_filter.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_filter.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_img_placeholder.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xhdpi\\img_placeholder.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_filter.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-mdpi\\ic_filter.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_img_order_success.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xhdpi\\img_order_success.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_call.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-hdpi\\ic_call.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_footer_cart.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-hdpi\\ic_footer_cart.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_default_photo.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxhdpi\\default_photo.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_next_arrow.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxhdpi\\next_arrow.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_switch.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable\\background_switch.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_footer_setting.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_footer_setting.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_order_success.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable\\img_order_success.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialgoe_quantity.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\dialgoe_quantity.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circle_blue_light_bg.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable\\circle_blue_light_bg.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_social_facebook.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_social_facebook.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_unchecked.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_unchecked.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_translate_dialog_in.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\anim\\translate_dialog_in.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_dashboard.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_clock.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-hdpi\\ic_clock.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_arrow_down.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-xhdpi\\arrow_down.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_lock.png.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\drawable-mdpi\\ic_lock.png"
+    },
+    {
+        "merged": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_support_chat.xml.flat",
+        "source": "C:\\Pradeep_work\\Projects\\Android Projects\\tigwal_android-master\\tigwal_android-master\\app\\src\\main\\res\\layout\\activity_support_chat.xml"
+    }
+]

@@ -1,0 +1,885 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.tigwal"
+4    android:versionCode="7"
+5    android:versionName="1.4" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml
+10    <!-- Permissions -->
+11    <uses-feature
+11-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:8:5-10:36
+12        android:name="android.hardware.microphone"
+12-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:9:9-51
+13        android:required="false" />
+13-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:10:9-33
+14
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:12:5-79
+15-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:12:22-76
+16    <uses-permission android:name="android.permission.CAMERA" />
+16-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:13:5-65
+16-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:13:22-62
+17    <uses-permission android:name="android.permission.INTERNET" />
+17-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:14:5-67
+17-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:14:22-64
+18    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+18-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:15:5-80
+18-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:15:22-77
+19    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+19-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:16:5-81
+19-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:16:22-78
+20    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+20-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:17:5-79
+20-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:17:22-76
+21    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+21-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:18:5-75
+21-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:18:22-72
+22    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+22-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:19:5-81
+22-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:19:22-78
+23    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+23-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:20:5-79
+23-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:20:22-76
+24    <uses-permission android:name="android.permission.CALL_PHONE" />
+24-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:21:5-69
+24-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:21:22-66
+25    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+25-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:22:5-76
+25-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:22:22-73
+26
+27    <uses-feature android:name="android.hardware.camera" />
+27-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:23:5-60
+27-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:23:19-57
+28
+29    <uses-permission android:name="android.permission.WAKE_LOCK" />
+29-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:24:5-68
+29-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:24:22-65
+30    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+30-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:25:5-81
+30-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:25:22-78
+31    <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
+31-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:27:5-75
+31-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:27:22-72
+32    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+32-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:28:5-82
+32-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:28:22-79
+33    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+33-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:29:5-77
+33-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:29:22-74
+34    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+34-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:30:5-78
+34-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:30:22-75
+35    <uses-permission android:name="android.permission.ACTION_MANAGE_OVERLAY_PERMISSION" />
+35-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:31:5-91
+35-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:31:22-88
+36    <uses-permission android:name="android.permission.VIBRATE" />
+36-->[:library] C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\library\build\intermediates\library_manifest\release\AndroidManifest.xml:14:5-66
+36-->[:library] C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\library\build\intermediates\library_manifest\release\AndroidManifest.xml:14:22-63
+37
+38    <uses-feature
+38-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\SINON TECH\.gradle\caches\transforms-3\9cdb4f0f3e750fec8cdbcf97e885d5d0\transformed\jetified-play-services-maps-17.0.1\AndroidManifest.xml:26:5-28:35
+39        android:glEsVersion="0x00020000"
+39-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\SINON TECH\.gradle\caches\transforms-3\9cdb4f0f3e750fec8cdbcf97e885d5d0\transformed\jetified-play-services-maps-17.0.1\AndroidManifest.xml:27:9-41
+40        android:required="true" />
+40-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\SINON TECH\.gradle\caches\transforms-3\9cdb4f0f3e750fec8cdbcf97e885d5d0\transformed\jetified-play-services-maps-17.0.1\AndroidManifest.xml:28:9-32
+41
+42    <queries>
+42-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\SINON TECH\.gradle\caches\transforms-3\9cdb4f0f3e750fec8cdbcf97e885d5d0\transformed\jetified-play-services-maps-17.0.1\AndroidManifest.xml:30:5-34:15
+43
+44        <!-- Needs to be explicitly declared on Android R+ -->
+45        <package android:name="com.google.android.apps.maps" />
+45-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\SINON TECH\.gradle\caches\transforms-3\9cdb4f0f3e750fec8cdbcf97e885d5d0\transformed\jetified-play-services-maps-17.0.1\AndroidManifest.xml:33:9-64
+45-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\SINON TECH\.gradle\caches\transforms-3\9cdb4f0f3e750fec8cdbcf97e885d5d0\transformed\jetified-play-services-maps-17.0.1\AndroidManifest.xml:33:18-61
+46    </queries>
+47
+48    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+48-->[com.google.android.gms:play-services-measurement:19.0.2] C:\Users\SINON TECH\.gradle\caches\transforms-3\63d0e3c13ea24b2759e1181894a8599a\transformed\jetified-play-services-measurement-19.0.2\AndroidManifest.xml:26:5-110
+48-->[com.google.android.gms:play-services-measurement:19.0.2] C:\Users\SINON TECH\.gradle\caches\transforms-3\63d0e3c13ea24b2759e1181894a8599a\transformed\jetified-play-services-measurement-19.0.2\AndroidManifest.xml:26:22-107
+49
+50    <uses-feature
+50-->[io.card:android-sdk:5.5.1] C:\Users\SINON TECH\.gradle\caches\transforms-3\426142a7d0faba783d00985218cef2f3\transformed\jetified-android-sdk-5.5.1\AndroidManifest.xml:15:5-17:36
+51        android:name="android.hardware.camera.autofocus"
+51-->[io.card:android-sdk:5.5.1] C:\Users\SINON TECH\.gradle\caches\transforms-3\426142a7d0faba783d00985218cef2f3\transformed\jetified-android-sdk-5.5.1\AndroidManifest.xml:16:9-57
+52        android:required="false" />
+52-->[io.card:android-sdk:5.5.1] C:\Users\SINON TECH\.gradle\caches\transforms-3\426142a7d0faba783d00985218cef2f3\transformed\jetified-android-sdk-5.5.1\AndroidManifest.xml:17:9-33
+53
+54    <application
+54-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:33:5-207:19
+55        android:name="com.tigwal.Application"
+55-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:34:9-36
+56        android:allowBackup="false"
+56-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:38:9-36
+57        android:appComponentFactory="@string/app_name"
+57-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:35:9-55
+58        android:debuggable="false"
+58-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:42:9-35
+59        android:fullBackupContent="false"
+59-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:36:9-42
+60        android:hardwareAccelerated="true"
+60-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:37:9-43
+61        android:icon="@mipmap/ic_launcher"
+61-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:39:9-43
+62        android:installLocation="internalOnly"
+62-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:40:9-47
+63        android:label="@string/app_name"
+63-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:41:9-41
+64        android:largeHeap="true"
+64-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:43:9-33
+65        android:networkSecurityConfig="@xml/network_security_config"
+65-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:44:9-69
+66        android:requestLegacyExternalStorage="true"
+66-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:45:9-52
+67        android:supportsRtl="true"
+67-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:46:9-35
+68        android:theme="@style/Theme.MyApplication"
+68-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:47:9-51
+69        android:usesCleartextTraffic="true" >
+69-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:48:9-44
+70
+71        <!-- Activities -->
+72
+73        <activity
+73-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:55:9-58:58
+74            android:name="com.tigwal.ui.activity.ChangePasswordActivity"
+74-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:56:13-63
+75            android:screenOrientation="locked"
+75-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:57:13-47
+76            android:windowSoftInputMode="adjustResize" />
+76-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:58:13-55
+77        <activity
+77-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:60:9-63:58
+78            android:name="com.tigwal.ui.activity.ChatListActivity"
+78-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:61:13-57
+79            android:screenOrientation="locked"
+79-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:62:13-47
+80            android:windowSoftInputMode="adjustResize" />
+80-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:63:13-55
+81        <activity
+81-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:65:9-68:58
+82            android:name="com.tigwal.ui.activity.SearchProductListActivity"
+82-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:66:13-66
+83            android:screenOrientation="locked"
+83-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:67:13-47
+84            android:windowSoftInputMode="adjustResize" />
+84-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:68:13-55
+85        <activity
+85-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:69:9-71:50
+86            android:name="com.tigwal.ui.activity.SupportChatActivity"
+86-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:70:13-60
+87            android:screenOrientation="locked" />
+87-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:71:13-47
+88        <activity
+88-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:72:9-75:76
+89            android:name="com.tigwal.ui.activity.ProfileActivity"
+89-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:73:13-56
+90            android:screenOrientation="locked"
+90-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:74:13-47
+91            android:windowSoftInputMode="stateAlwaysHidden|adjustResize" />
+91-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:75:13-73
+92        <activity
+92-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:76:9-78:50
+93            android:name="com.tigwal.ui.activity.OrderSummaryActivity"
+93-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:77:13-61
+94            android:screenOrientation="locked" />
+94-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:78:13-47
+95        <activity
+95-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:79:9-81:50
+96            android:name="com.tigwal.ui.activity.CancelOrderActivity"
+96-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:80:13-60
+97            android:screenOrientation="locked" />
+97-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:81:13-47
+98        <activity
+98-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:82:9-84:50
+99            android:name="com.tigwal.ui.activity.SubCategoryActivity"
+99-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:83:13-60
+100            android:screenOrientation="locked" />
+100-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:84:13-47
+101        <activity
+101-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:85:9-87:50
+102            android:name="com.tigwal.ui.activity.ViewAllCategoryActivity"
+102-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:86:13-64
+103            android:screenOrientation="locked" />
+103-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:87:13-47
+104        <activity
+104-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:88:9-90:50
+105            android:name="com.tigwal.ui.activity.ProductListActivity"
+105-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:89:13-60
+106            android:screenOrientation="locked" />
+106-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:90:13-47
+107        <activity
+107-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:91:9-93:50
+108            android:name="com.tigwal.ui.activity.ProductDetailActivity"
+108-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:92:13-62
+109            android:screenOrientation="locked" />
+109-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:93:13-47
+110        <activity
+110-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:94:9-96:50
+111            android:name="com.tigwal.ui.activity.PaymentOptionActivity"
+111-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:95:13-62
+112            android:screenOrientation="locked" />
+112-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:96:13-47
+113        <activity
+113-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:97:9-100:63
+114            android:name="com.tigwal.ui.activity.DashboardActivity"
+114-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:98:13-58
+115            android:screenOrientation="locked"
+115-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:99:13-47
+116            android:windowSoftInputMode="stateAlwaysHidden" />
+116-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:100:13-60
+117        <activity
+117-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:101:9-104:63
+118            android:name="com.tigwal.ui.activity.ForgotPasswordActivity"
+118-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:102:13-63
+119            android:screenOrientation="locked"
+119-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:103:13-47
+120            android:windowSoftInputMode="stateAlwaysHidden" />
+120-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:104:13-60
+121        <activity
+121-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:105:9-108:63
+122            android:name="com.tigwal.ui.activity.ResetPasswordActivity"
+122-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:106:13-62
+123            android:screenOrientation="locked"
+123-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:107:13-47
+124            android:windowSoftInputMode="stateAlwaysHidden" />
+124-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:108:13-60
+125        <activity
+125-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:109:9-112:63
+126            android:name="com.tigwal.ui.activity.VerifyOtpActivity"
+126-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:110:13-58
+127            android:screenOrientation="locked"
+127-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:111:13-47
+128            android:windowSoftInputMode="stateAlwaysHidden" />
+128-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:112:13-60
+129        <activity
+129-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:113:9-116:63
+130            android:name="com.tigwal.ui.activity.CMSScreenActivity"
+130-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:114:13-58
+131            android:screenOrientation="locked"
+131-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:115:13-47
+132            android:windowSoftInputMode="stateAlwaysHidden" />
+132-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:116:13-60
+133        <activity
+133-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:117:9-120:63
+134            android:name="com.tigwal.ui.activity.OrderReceiveActivity"
+134-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:118:13-61
+135            android:screenOrientation="locked"
+135-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:119:13-47
+136            android:windowSoftInputMode="stateAlwaysHidden" />
+136-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:120:13-60
+137        <activity
+137-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:121:9-132:20
+138            android:name="com.tigwal.ui.activity.SplashActivity"
+138-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:122:13-55
+139            android:exported="true"
+139-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:126:13-36
+140            android:screenOrientation="locked"
+140-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:123:13-47
+141            android:theme="@style/Theme.MyApplication"
+141-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:124:13-55
+142            android:windowSoftInputMode="stateAlwaysHidden" >
+142-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:125:13-60
+143            <intent-filter>
+143-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:127:13-131:29
+144                <action android:name="android.intent.action.MAIN" />
+144-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:128:17-69
+144-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:128:25-66
+145
+146                <category android:name="android.intent.category.LAUNCHER" />
+146-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:130:17-77
+146-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:130:27-74
+147            </intent-filter>
+148        </activity>
+149        <activity
+149-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:134:9-137:58
+150            android:name="com.tigwal.ui.activity.LoginActivity"
+150-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:135:13-54
+151            android:screenOrientation="locked"
+151-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:136:13-47
+152            android:windowSoftInputMode="adjustResize" />
+152-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:137:13-55
+153        <activity
+153-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:139:9-142:63
+154            android:name="com.tigwal.ui.activity.LanguageActivity"
+154-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:140:13-57
+155            android:screenOrientation="locked"
+155-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:141:13-47
+156            android:windowSoftInputMode="stateAlwaysHidden" />
+156-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:142:13-60
+157
+158        <uses-library
+158-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:144:9-146:40
+159            android:name="org.apache.http.legacy"
+159-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:145:13-50
+160            android:required="false" />
+160-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:146:13-37
+161
+162        <service
+162-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:148:9-154:19
+163            android:name="com.tigwal.ui.service.MyFirebaseMessagingService"
+163-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:149:13-66
+164            android:exported="false" >
+164-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:150:13-37
+165            <intent-filter>
+165-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:151:13-153:29
+166                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+166-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:152:17-78
+166-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:152:25-75
+167            </intent-filter>
+168        </service>
+169
+170        <meta-data
+170-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:156:9-158:55
+171            android:name="com.google.android.geo.API_KEY"
+171-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:157:13-58
+172            android:value="@string/google_maps_key" />
+172-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:158:13-52
+173        <meta-data
+173-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:159:9-161:69
+174            android:name="com.google.android.gms.version"
+174-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:160:13-58
+175            android:value="@integer/google_play_services_version" />
+175-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:161:13-66
+176        <meta-data
+176-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:164:9-166:37
+177            android:name="firebase_messaging_auto_init_enabled"
+177-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:165:13-64
+178            android:value="false" />
+178-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:166:13-34
+179        <meta-data
+179-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:167:9-169:37
+180            android:name="firebase_analytics_collection_enabled"
+180-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:168:13-65
+181            android:value="false" />
+181-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:169:13-34
+182        <meta-data
+182-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:171:9-173:55
+183            android:name="com.facebook.sdk.ApplicationId"
+183-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:172:13-58
+184            android:value="@string/facebook_app_id" />
+184-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:173:13-52
+185        <meta-data
+185-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:175:9-177:61
+186            android:name="com.facebook.sdk.ClientToken"
+186-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:176:13-56
+187            android:value="@string/facebook_client_token" />
+187-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:177:13-58
+188
+189        <activity
+189-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:179:9-182:48
+190            android:name="com.facebook.FacebookActivity"
+190-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:180:13-57
+191            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+191-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:181:13-96
+192            android:label="@string/app_name"
+192-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:182:13-45
+193            android:theme="@style/com_facebook_activity_theme" />
+193-->[com.facebook.android:facebook-common:12.0.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\21312a0f4197ec09f05a501ab59d470a\transformed\jetified-facebook-common-12.0.0\AndroidManifest.xml:33:13-63
+194        <activity
+194-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:184:9-193:20
+195            android:name="com.facebook.CustomTabActivity"
+195-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:185:13-58
+196            android:exported="true" >
+196-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:186:13-36
+197            <intent-filter>
+197-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:187:13-192:29
+198                <action android:name="android.intent.action.VIEW" />
+198-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:188:17-69
+198-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:188:25-66
+199
+200                <category android:name="android.intent.category.DEFAULT" />
+200-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:189:17-76
+200-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:189:27-73
+201                <category android:name="android.intent.category.BROWSABLE" />
+201-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:190:17-78
+201-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:190:27-75
+202
+203                <data android:scheme="@string/fb_login_protocol_scheme" />
+203-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:191:17-75
+203-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:191:23-72
+204            </intent-filter>
+205            <intent-filter>
+205-->[com.facebook.android:facebook-common:12.0.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\21312a0f4197ec09f05a501ab59d470a\transformed\jetified-facebook-common-12.0.0\AndroidManifest.xml:39:13-48:29
+206                <action android:name="android.intent.action.VIEW" />
+206-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:188:17-69
+206-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:188:25-66
+207
+208                <category android:name="android.intent.category.DEFAULT" />
+208-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:189:17-76
+208-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:189:27-73
+209                <category android:name="android.intent.category.BROWSABLE" />
+209-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:190:17-78
+209-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:190:27-75
+210
+211                <data
+211-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:191:17-75
+212                    android:host="cct.com.tigwal"
+213                    android:scheme="fbconnect" />
+213-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:191:23-72
+214            </intent-filter>
+215        </activity>
+216
+217        <provider
+217-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:195:9-203:20
+218            android:name="androidx.core.content.FileProvider"
+218-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:196:13-62
+219            android:authorities="com.tigwal.provider"
+219-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:197:13-54
+220            android:exported="false"
+220-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:198:13-37
+221            android:grantUriPermissions="true" >
+221-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:199:13-47
+222            <meta-data
+222-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:200:13-202:54
+223                android:name="android.support.FILE_PROVIDER_PATHS"
+223-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:201:17-67
+224                android:resource="@xml/file_paths" />
+224-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:202:17-51
+225        </provider>
+226
+227        <receiver android:name="com.tigwal.ui.activity.SupportChatActivity$CustomBroadcastReceiver" />
+227-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:205:9-93
+227-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:205:19-90
+228
+229        <activity android:name="com.facebook.CustomTabMainActivity" />
+229-->[com.facebook.android:facebook-common:12.0.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\21312a0f4197ec09f05a501ab59d470a\transformed\jetified-facebook-common-12.0.0\AndroidManifest.xml:34:9-71
+229-->[com.facebook.android:facebook-common:12.0.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\21312a0f4197ec09f05a501ab59d470a\transformed\jetified-facebook-common-12.0.0\AndroidManifest.xml:34:19-68
+230        <!--
+231         The initialization ContentProvider will call FacebookSdk.sdkInitialize automatically
+232         with the application context. This config is merged in with the host app's manifest,
+233         but there can only be one provider with the same authority activated at any given
+234         point; so if the end user has two or more different apps that use Facebook SDK, only the
+235         first one will be able to use the provider. To work around this problem, we use the
+236         following placeholder in the authority to identify each host application as if it was
+237         a completely different provider.
+238        -->
+239        <provider
+239-->[com.facebook.android:facebook-core:12.0.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\d0d6074e35328acb9b75bf82165e6474\transformed\jetified-facebook-core-12.0.0\AndroidManifest.xml:39:9-42:40
+240            android:name="com.facebook.internal.FacebookInitProvider"
+240-->[com.facebook.android:facebook-core:12.0.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\d0d6074e35328acb9b75bf82165e6474\transformed\jetified-facebook-core-12.0.0\AndroidManifest.xml:40:13-70
+241            android:authorities="com.tigwal.FacebookInitProvider"
+241-->[com.facebook.android:facebook-core:12.0.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\d0d6074e35328acb9b75bf82165e6474\transformed\jetified-facebook-core-12.0.0\AndroidManifest.xml:41:13-72
+242            android:exported="false" />
+242-->[com.facebook.android:facebook-core:12.0.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\d0d6074e35328acb9b75bf82165e6474\transformed\jetified-facebook-core-12.0.0\AndroidManifest.xml:42:13-37
+243
+244        <receiver
+244-->[com.facebook.android:facebook-core:12.0.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\d0d6074e35328acb9b75bf82165e6474\transformed\jetified-facebook-core-12.0.0\AndroidManifest.xml:44:9-50:20
+245            android:name="com.facebook.CurrentAccessTokenExpirationBroadcastReceiver"
+245-->[com.facebook.android:facebook-core:12.0.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\d0d6074e35328acb9b75bf82165e6474\transformed\jetified-facebook-core-12.0.0\AndroidManifest.xml:45:13-86
+246            android:exported="false" >
+246-->[com.facebook.android:facebook-core:12.0.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\d0d6074e35328acb9b75bf82165e6474\transformed\jetified-facebook-core-12.0.0\AndroidManifest.xml:46:13-37
+247            <intent-filter>
+247-->[com.facebook.android:facebook-core:12.0.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\d0d6074e35328acb9b75bf82165e6474\transformed\jetified-facebook-core-12.0.0\AndroidManifest.xml:47:13-49:29
+248                <action android:name="com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED" />
+248-->[com.facebook.android:facebook-core:12.0.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\d0d6074e35328acb9b75bf82165e6474\transformed\jetified-facebook-core-12.0.0\AndroidManifest.xml:48:17-95
+248-->[com.facebook.android:facebook-core:12.0.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\d0d6074e35328acb9b75bf82165e6474\transformed\jetified-facebook-core-12.0.0\AndroidManifest.xml:48:25-92
+249            </intent-filter>
+250        </receiver>
+251
+252        <activity
+252-->[:library] C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\library\build\intermediates\library_manifest\release\AndroidManifest.xml:20:9-23:58
+253            android:name="company.tap.gosellapi.internal.activities.GoSellPaymentActivity"
+253-->[:library] C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\library\build\intermediates\library_manifest\release\AndroidManifest.xml:21:13-91
+254            android:theme="@style/TransparentCompat"
+254-->[:library] C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\library\build\intermediates\library_manifest\release\AndroidManifest.xml:22:13-53
+255            android:windowSoftInputMode="adjustResize" />
+255-->[:library] C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\library\build\intermediates\library_manifest\release\AndroidManifest.xml:23:13-55
+256        <activity
+256-->[:library] C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\library\build\intermediates\library_manifest\release\AndroidManifest.xml:24:9-26:56
+257            android:name="company.tap.gosellapi.internal.activities.GoSellCardAddressActivity"
+257-->[:library] C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\library\build\intermediates\library_manifest\release\AndroidManifest.xml:25:13-95
+258            android:theme="@style/GoSellSDKAppTheme" />
+258-->[:library] C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\library\build\intermediates\library_manifest\release\AndroidManifest.xml:26:13-53
+259        <activity
+259-->[:library] C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\library\build\intermediates\library_manifest\release\AndroidManifest.xml:27:9-29:56
+260            android:name="company.tap.gosellapi.internal.activities.CurrenciesActivity"
+260-->[:library] C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\library\build\intermediates\library_manifest\release\AndroidManifest.xml:28:13-88
+261            android:theme="@style/GoSellSDKAppTheme" />
+261-->[:library] C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\library\build\intermediates\library_manifest\release\AndroidManifest.xml:29:13-53
+262        <activity
+262-->[:library] C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\library\build\intermediates\library_manifest\release\AndroidManifest.xml:30:9-32:56
+263            android:name="company.tap.gosellapi.internal.activities.BaseActionBarActivity"
+263-->[:library] C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\library\build\intermediates\library_manifest\release\AndroidManifest.xml:31:13-91
+264            android:theme="@style/GoSellSDKAppTheme" />
+264-->[:library] C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\library\build\intermediates\library_manifest\release\AndroidManifest.xml:32:13-53
+265        <activity
+265-->[:library] C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\library\build\intermediates\library_manifest\release\AndroidManifest.xml:33:9-36:56
+266            android:name="company.tap.gosellapi.internal.activities.WebPaymentActivity"
+266-->[:library] C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\library\build\intermediates\library_manifest\release\AndroidManifest.xml:34:13-88
+267            android:screenOrientation="portrait"
+267-->[:library] C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\library\build\intermediates\library_manifest\release\AndroidManifest.xml:35:13-49
+268            android:theme="@style/GoSellSDKAppTheme" />
+268-->[:library] C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\library\build\intermediates\library_manifest\release\AndroidManifest.xml:36:13-53
+269        <activity
+269-->[:library] C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\library\build\intermediates\library_manifest\release\AndroidManifest.xml:37:9-39:56
+270            android:name="company.tap.gosellapi.internal.activities.CountriesActivity"
+270-->[:library] C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\library\build\intermediates\library_manifest\release\AndroidManifest.xml:38:13-87
+271            android:theme="@style/GoSellSDKAppTheme" />
+271-->[:library] C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\library\build\intermediates\library_manifest\release\AndroidManifest.xml:39:13-53
+272        <activity
+272-->[:library] C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\library\build\intermediates\library_manifest\release\AndroidManifest.xml:40:9-42:56
+273            android:name="company.tap.gosellapi.internal.activities.AsynchronousPaymentActivity"
+273-->[:library] C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\library\build\intermediates\library_manifest\release\AndroidManifest.xml:41:13-97
+274            android:theme="@style/TransparentCompat" />
+274-->[:library] C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\library\build\intermediates\library_manifest\release\AndroidManifest.xml:42:13-53
+275
+276        <provider
+276-->[com.google.firebase:firebase-perf:20.0.3] C:\Users\SINON TECH\.gradle\caches\transforms-3\f4148464b867c2687b803bcbd3a73d7b\transformed\jetified-firebase-perf-20.0.3\AndroidManifest.xml:14:9-18:39
+277            android:name="com.google.firebase.perf.provider.FirebasePerfProvider"
+277-->[com.google.firebase:firebase-perf:20.0.3] C:\Users\SINON TECH\.gradle\caches\transforms-3\f4148464b867c2687b803bcbd3a73d7b\transformed\jetified-firebase-perf-20.0.3\AndroidManifest.xml:15:13-82
+278            android:authorities="com.tigwal.firebaseperfprovider"
+278-->[com.google.firebase:firebase-perf:20.0.3] C:\Users\SINON TECH\.gradle\caches\transforms-3\f4148464b867c2687b803bcbd3a73d7b\transformed\jetified-firebase-perf-20.0.3\AndroidManifest.xml:16:13-72
+279            android:exported="false"
+279-->[com.google.firebase:firebase-perf:20.0.3] C:\Users\SINON TECH\.gradle\caches\transforms-3\f4148464b867c2687b803bcbd3a73d7b\transformed\jetified-firebase-perf-20.0.3\AndroidManifest.xml:17:13-37
+280            android:initOrder="101" />
+280-->[com.google.firebase:firebase-perf:20.0.3] C:\Users\SINON TECH\.gradle\caches\transforms-3\f4148464b867c2687b803bcbd3a73d7b\transformed\jetified-firebase-perf-20.0.3\AndroidManifest.xml:18:13-36
+281
+282        <service
+282-->[com.google.firebase:firebase-perf:20.0.3] C:\Users\SINON TECH\.gradle\caches\transforms-3\f4148464b867c2687b803bcbd3a73d7b\transformed\jetified-firebase-perf-20.0.3\AndroidManifest.xml:20:9-26:19
+283            android:name="com.google.firebase.components.ComponentDiscoveryService"
+283-->[com.google.firebase:firebase-perf:20.0.3] C:\Users\SINON TECH\.gradle\caches\transforms-3\f4148464b867c2687b803bcbd3a73d7b\transformed\jetified-firebase-perf-20.0.3\AndroidManifest.xml:21:13-84
+284            android:directBootAware="true"
+284-->[com.google.firebase:firebase-common:20.0.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\c6e78dbd024d780dc0a06dfec8fa2a2c\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:35:13-43
+285            android:exported="false" >
+285-->[com.google.firebase:firebase-perf:20.0.3] C:\Users\SINON TECH\.gradle\caches\transforms-3\f4148464b867c2687b803bcbd3a73d7b\transformed\jetified-firebase-perf-20.0.3\AndroidManifest.xml:22:13-37
+286            <meta-data
+286-->[com.google.firebase:firebase-perf:20.0.3] C:\Users\SINON TECH\.gradle\caches\transforms-3\f4148464b867c2687b803bcbd3a73d7b\transformed\jetified-firebase-perf-20.0.3\AndroidManifest.xml:23:13-25:85
+287                android:name="com.google.firebase.components:com.google.firebase.perf.FirebasePerfRegistrar"
+287-->[com.google.firebase:firebase-perf:20.0.3] C:\Users\SINON TECH\.gradle\caches\transforms-3\f4148464b867c2687b803bcbd3a73d7b\transformed\jetified-firebase-perf-20.0.3\AndroidManifest.xml:24:17-109
+288                android:value="com.google.firebase.components.ComponentRegistrar" />
+288-->[com.google.firebase:firebase-perf:20.0.3] C:\Users\SINON TECH\.gradle\caches\transforms-3\f4148464b867c2687b803bcbd3a73d7b\transformed\jetified-firebase-perf-20.0.3\AndroidManifest.xml:25:17-82
+289            <meta-data
+289-->[com.google.firebase:firebase-analytics-ktx:19.0.2] C:\Users\SINON TECH\.gradle\caches\transforms-3\1c0235b8cea02ab1b9fe09cbc051254d\transformed\jetified-firebase-analytics-ktx-19.0.2\AndroidManifest.xml:11:13-13:85
+290                android:name="com.google.firebase.components:com.google.firebase.analytics.ktx.FirebaseAnalyticsKtxRegistrar"
+290-->[com.google.firebase:firebase-analytics-ktx:19.0.2] C:\Users\SINON TECH\.gradle\caches\transforms-3\1c0235b8cea02ab1b9fe09cbc051254d\transformed\jetified-firebase-analytics-ktx-19.0.2\AndroidManifest.xml:12:17-126
+291                android:value="com.google.firebase.components.ComponentRegistrar" />
+291-->[com.google.firebase:firebase-analytics-ktx:19.0.2] C:\Users\SINON TECH\.gradle\caches\transforms-3\1c0235b8cea02ab1b9fe09cbc051254d\transformed\jetified-firebase-analytics-ktx-19.0.2\AndroidManifest.xml:13:17-82
+292            <meta-data
+292-->[com.google.firebase:firebase-auth-ktx:21.0.1] C:\Users\SINON TECH\.gradle\caches\transforms-3\674f4cd7587ee42812f67135c99e3fa3\transformed\jetified-firebase-auth-ktx-21.0.1\AndroidManifest.xml:11:13-13:85
+293                android:name="com.google.firebase.components:com.google.firebase.auth.ktx.FirebaseAuthKtxRegistrar"
+293-->[com.google.firebase:firebase-auth-ktx:21.0.1] C:\Users\SINON TECH\.gradle\caches\transforms-3\674f4cd7587ee42812f67135c99e3fa3\transformed\jetified-firebase-auth-ktx-21.0.1\AndroidManifest.xml:12:17-116
+294                android:value="com.google.firebase.components.ComponentRegistrar" />
+294-->[com.google.firebase:firebase-auth-ktx:21.0.1] C:\Users\SINON TECH\.gradle\caches\transforms-3\674f4cd7587ee42812f67135c99e3fa3\transformed\jetified-firebase-auth-ktx-21.0.1\AndroidManifest.xml:13:17-82
+295            <meta-data
+295-->[com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\6897ad5d9b78cca746837c7055bcfdb5\transformed\jetified-firebase-common-ktx-20.0.0\AndroidManifest.xml:15:13-17:85
+296                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar"
+296-->[com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\6897ad5d9b78cca746837c7055bcfdb5\transformed\jetified-firebase-common-ktx-20.0.0\AndroidManifest.xml:16:17-113
+297                android:value="com.google.firebase.components.ComponentRegistrar" />
+297-->[com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\6897ad5d9b78cca746837c7055bcfdb5\transformed\jetified-firebase-common-ktx-20.0.0\AndroidManifest.xml:17:17-82
+298            <meta-data
+298-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\SINON TECH\.gradle\caches\transforms-3\f5c67500bd65c8f0b08f61fc7901e4e7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:77:13-79:85
+299                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+299-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\SINON TECH\.gradle\caches\transforms-3\f5c67500bd65c8f0b08f61fc7901e4e7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:78:17-109
+300                android:value="com.google.firebase.components.ComponentRegistrar" />
+300-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\SINON TECH\.gradle\caches\transforms-3\f5c67500bd65c8f0b08f61fc7901e4e7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:79:17-82
+301            <meta-data
+301-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\4bf6a2c448f63c2e0876f764b9a7502b\transformed\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:52:13-54:85
+302                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
+302-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\4bf6a2c448f63c2e0876f764b9a7502b\transformed\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:53:17-119
+303                android:value="com.google.firebase.components.ComponentRegistrar" />
+303-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\4bf6a2c448f63c2e0876f764b9a7502b\transformed\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:54:17-82
+304            <meta-data
+304-->[com.google.firebase:firebase-iid:21.1.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\4b4873c743f26c82a6ac7af237701963\transformed\jetified-firebase-iid-21.1.0\AndroidManifest.xml:32:13-34:85
+305                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+305-->[com.google.firebase:firebase-iid:21.1.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\4b4873c743f26c82a6ac7af237701963\transformed\jetified-firebase-iid-21.1.0\AndroidManifest.xml:33:17-96
+306                android:value="com.google.firebase.components.ComponentRegistrar" />
+306-->[com.google.firebase:firebase-iid:21.1.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\4b4873c743f26c82a6ac7af237701963\transformed\jetified-firebase-iid-21.1.0\AndroidManifest.xml:34:17-82
+307            <meta-data
+307-->[com.google.firebase:firebase-datatransport:18.0.1] C:\Users\SINON TECH\.gradle\caches\transforms-3\e806358adab872c4d2c913c7254180aa\transformed\jetified-firebase-datatransport-18.0.1\AndroidManifest.xml:28:13-30:85
+308                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+308-->[com.google.firebase:firebase-datatransport:18.0.1] C:\Users\SINON TECH\.gradle\caches\transforms-3\e806358adab872c4d2c913c7254180aa\transformed\jetified-firebase-datatransport-18.0.1\AndroidManifest.xml:29:17-115
+309                android:value="com.google.firebase.components.ComponentRegistrar" />
+309-->[com.google.firebase:firebase-datatransport:18.0.1] C:\Users\SINON TECH\.gradle\caches\transforms-3\e806358adab872c4d2c913c7254180aa\transformed\jetified-firebase-datatransport-18.0.1\AndroidManifest.xml:30:17-82
+310            <meta-data
+310-->[com.google.firebase:firebase-config:21.0.1] C:\Users\SINON TECH\.gradle\caches\transforms-3\a40ff0b8cccdff1e421ef9946431d099\transformed\jetified-firebase-config-21.0.1\AndroidManifest.xml:32:13-34:85
+311                android:name="com.google.firebase.components:com.google.firebase.remoteconfig.RemoteConfigRegistrar"
+311-->[com.google.firebase:firebase-config:21.0.1] C:\Users\SINON TECH\.gradle\caches\transforms-3\a40ff0b8cccdff1e421ef9946431d099\transformed\jetified-firebase-config-21.0.1\AndroidManifest.xml:33:17-117
+312                android:value="com.google.firebase.components.ComponentRegistrar" />
+312-->[com.google.firebase:firebase-config:21.0.1] C:\Users\SINON TECH\.gradle\caches\transforms-3\a40ff0b8cccdff1e421ef9946431d099\transformed\jetified-firebase-config-21.0.1\AndroidManifest.xml:34:17-82
+313            <meta-data
+313-->[com.google.android.gms:play-services-measurement-api:19.0.2] C:\Users\SINON TECH\.gradle\caches\transforms-3\89289b4af77cd9db771c22a5a35f0536\transformed\jetified-play-services-measurement-api-19.0.2\AndroidManifest.xml:30:13-32:85
+314                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+314-->[com.google.android.gms:play-services-measurement-api:19.0.2] C:\Users\SINON TECH\.gradle\caches\transforms-3\89289b4af77cd9db771c22a5a35f0536\transformed\jetified-play-services-measurement-api-19.0.2\AndroidManifest.xml:31:17-139
+315                android:value="com.google.firebase.components.ComponentRegistrar" />
+315-->[com.google.android.gms:play-services-measurement-api:19.0.2] C:\Users\SINON TECH\.gradle\caches\transforms-3\89289b4af77cd9db771c22a5a35f0536\transformed\jetified-play-services-measurement-api-19.0.2\AndroidManifest.xml:32:17-82
+316            <meta-data
+316-->[com.google.firebase:firebase-installations:17.0.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\6edfaf05531143c19ca95de0a0755e2b\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:18:13-20:85
+317                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+317-->[com.google.firebase:firebase-installations:17.0.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\6edfaf05531143c19ca95de0a0755e2b\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:19:17-127
+318                android:value="com.google.firebase.components.ComponentRegistrar" />
+318-->[com.google.firebase:firebase-installations:17.0.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\6edfaf05531143c19ca95de0a0755e2b\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:20:17-82
+319            <meta-data
+319-->[com.google.firebase:firebase-abt:21.0.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\7d7d64ef75a813941fb308507f1e75fc\transformed\jetified-firebase-abt-21.0.0\AndroidManifest.xml:13:13-15:85
+320                android:name="com.google.firebase.components:com.google.firebase.abt.component.AbtRegistrar"
+320-->[com.google.firebase:firebase-abt:21.0.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\7d7d64ef75a813941fb308507f1e75fc\transformed\jetified-firebase-abt-21.0.0\AndroidManifest.xml:14:17-109
+321                android:value="com.google.firebase.components.ComponentRegistrar" />
+321-->[com.google.firebase:firebase-abt:21.0.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\7d7d64ef75a813941fb308507f1e75fc\transformed\jetified-firebase-abt-21.0.0\AndroidManifest.xml:15:17-82
+322        </service>
+323
+324        <activity
+324-->[com.google.android.libraries.places:places:2.5.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\5bf03f2e9171bbb4f1755ac4f88f30af\transformed\jetified-places-2.5.0\AndroidManifest.xml:14:9-20:20
+325            android:name="com.google.android.libraries.places.widget.AutocompleteActivity"
+325-->[com.google.android.libraries.places:places:2.5.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\5bf03f2e9171bbb4f1755ac4f88f30af\transformed\jetified-places-2.5.0\AndroidManifest.xml:15:13-91
+326            android:exported="false"
+326-->[com.google.android.libraries.places:places:2.5.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\5bf03f2e9171bbb4f1755ac4f88f30af\transformed\jetified-places-2.5.0\AndroidManifest.xml:16:13-37
+327            android:label="@string/places_autocomplete_label"
+327-->[com.google.android.libraries.places:places:2.5.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\5bf03f2e9171bbb4f1755ac4f88f30af\transformed\jetified-places-2.5.0\AndroidManifest.xml:17:13-62
+328            android:theme="@style/PlacesAutocompleteOverlay"
+328-->[com.google.android.libraries.places:places:2.5.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\5bf03f2e9171bbb4f1755ac4f88f30af\transformed\jetified-places-2.5.0\AndroidManifest.xml:18:13-61
+329            android:windowSoftInputMode="adjustResize" >
+329-->[com.google.android.libraries.places:places:2.5.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\5bf03f2e9171bbb4f1755ac4f88f30af\transformed\jetified-places-2.5.0\AndroidManifest.xml:19:13-55
+330        </activity>
+331        <activity
+331-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\d4d286cd74c99c5e74f5a571d6cb6ab3\transformed\jetified-play-services-auth-19.0.0\AndroidManifest.xml:23:9-27:75
+332            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+332-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\d4d286cd74c99c5e74f5a571d6cb6ab3\transformed\jetified-play-services-auth-19.0.0\AndroidManifest.xml:24:13-93
+333            android:excludeFromRecents="true"
+333-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\d4d286cd74c99c5e74f5a571d6cb6ab3\transformed\jetified-play-services-auth-19.0.0\AndroidManifest.xml:25:13-46
+334            android:exported="false"
+334-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\d4d286cd74c99c5e74f5a571d6cb6ab3\transformed\jetified-play-services-auth-19.0.0\AndroidManifest.xml:26:13-37
+335            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+335-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\d4d286cd74c99c5e74f5a571d6cb6ab3\transformed\jetified-play-services-auth-19.0.0\AndroidManifest.xml:27:13-72
+336        <!--
+337            Service handling Google Sign-In user revocation. For apps that do not integrate with
+338            Google Sign-In, this service will never be started.
+339        -->
+340        <service
+340-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\d4d286cd74c99c5e74f5a571d6cb6ab3\transformed\jetified-play-services-auth-19.0.0\AndroidManifest.xml:33:9-37:51
+341            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+341-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\d4d286cd74c99c5e74f5a571d6cb6ab3\transformed\jetified-play-services-auth-19.0.0\AndroidManifest.xml:34:13-89
+342            android:exported="true"
+342-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\d4d286cd74c99c5e74f5a571d6cb6ab3\transformed\jetified-play-services-auth-19.0.0\AndroidManifest.xml:35:13-36
+343            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+343-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\d4d286cd74c99c5e74f5a571d6cb6ab3\transformed\jetified-play-services-auth-19.0.0\AndroidManifest.xml:36:13-107
+344            android:visibleToInstantApps="true" />
+344-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\d4d286cd74c99c5e74f5a571d6cb6ab3\transformed\jetified-play-services-auth-19.0.0\AndroidManifest.xml:37:13-48
+345
+346        <activity
+346-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\SINON TECH\.gradle\caches\transforms-3\f5c67500bd65c8f0b08f61fc7901e4e7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:27:9-44:20
+347            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
+347-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\SINON TECH\.gradle\caches\transforms-3\f5c67500bd65c8f0b08f61fc7901e4e7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:28:13-80
+348            android:excludeFromRecents="true"
+348-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\SINON TECH\.gradle\caches\transforms-3\f5c67500bd65c8f0b08f61fc7901e4e7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:29:13-46
+349            android:exported="true"
+349-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\SINON TECH\.gradle\caches\transforms-3\f5c67500bd65c8f0b08f61fc7901e4e7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:30:13-36
+350            android:launchMode="singleTask"
+350-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\SINON TECH\.gradle\caches\transforms-3\f5c67500bd65c8f0b08f61fc7901e4e7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:31:13-44
+351            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+351-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\SINON TECH\.gradle\caches\transforms-3\f5c67500bd65c8f0b08f61fc7901e4e7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:32:13-72
+352            <intent-filter>
+352-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\SINON TECH\.gradle\caches\transforms-3\f5c67500bd65c8f0b08f61fc7901e4e7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:33:13-43:29
+353                <action android:name="android.intent.action.VIEW" />
+353-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:188:17-69
+353-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:188:25-66
+354
+355                <category android:name="android.intent.category.DEFAULT" />
+355-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:189:17-76
+355-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:189:27-73
+356                <category android:name="android.intent.category.BROWSABLE" />
+356-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:190:17-78
+356-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:190:27-75
+357
+358                <data
+358-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:191:17-75
+359                    android:host="firebase.auth"
+360                    android:path="/"
+361                    android:scheme="genericidp" />
+361-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:191:23-72
+362            </intent-filter>
+363        </activity>
+364        <activity
+364-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\SINON TECH\.gradle\caches\transforms-3\f5c67500bd65c8f0b08f61fc7901e4e7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:45:9-62:20
+365            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+365-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\SINON TECH\.gradle\caches\transforms-3\f5c67500bd65c8f0b08f61fc7901e4e7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:46:13-79
+366            android:excludeFromRecents="true"
+366-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\SINON TECH\.gradle\caches\transforms-3\f5c67500bd65c8f0b08f61fc7901e4e7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:47:13-46
+367            android:exported="true"
+367-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\SINON TECH\.gradle\caches\transforms-3\f5c67500bd65c8f0b08f61fc7901e4e7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:48:13-36
+368            android:launchMode="singleTask"
+368-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\SINON TECH\.gradle\caches\transforms-3\f5c67500bd65c8f0b08f61fc7901e4e7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:49:13-44
+369            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+369-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\SINON TECH\.gradle\caches\transforms-3\f5c67500bd65c8f0b08f61fc7901e4e7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:50:13-72
+370            <intent-filter>
+370-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\SINON TECH\.gradle\caches\transforms-3\f5c67500bd65c8f0b08f61fc7901e4e7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:51:13-61:29
+371                <action android:name="android.intent.action.VIEW" />
+371-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:188:17-69
+371-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:188:25-66
+372
+373                <category android:name="android.intent.category.DEFAULT" />
+373-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:189:17-76
+373-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:189:27-73
+374                <category android:name="android.intent.category.BROWSABLE" />
+374-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:190:17-78
+374-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:190:27-75
+375
+376                <data
+376-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:191:17-75
+377                    android:host="firebase.auth"
+378                    android:path="/"
+379                    android:scheme="recaptcha" />
+379-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:191:23-72
+380            </intent-filter>
+381        </activity>
+382
+383        <service
+383-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\SINON TECH\.gradle\caches\transforms-3\f5c67500bd65c8f0b08f61fc7901e4e7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:64:9-73:19
+384            android:name="com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService"
+384-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\SINON TECH\.gradle\caches\transforms-3\f5c67500bd65c8f0b08f61fc7901e4e7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:65:13-101
+385            android:enabled="true"
+385-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\SINON TECH\.gradle\caches\transforms-3\f5c67500bd65c8f0b08f61fc7901e4e7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:66:13-35
+386            android:exported="false" >
+386-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\SINON TECH\.gradle\caches\transforms-3\f5c67500bd65c8f0b08f61fc7901e4e7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:67:13-37
+387            <intent-filter>
+387-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\SINON TECH\.gradle\caches\transforms-3\f5c67500bd65c8f0b08f61fc7901e4e7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:68:13-72:29
+388                <action android:name="com.google.firebase.auth.api.gms.service.START" />
+388-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\SINON TECH\.gradle\caches\transforms-3\f5c67500bd65c8f0b08f61fc7901e4e7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:69:17-89
+388-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\SINON TECH\.gradle\caches\transforms-3\f5c67500bd65c8f0b08f61fc7901e4e7\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:69:25-86
+389
+390                <category android:name="android.intent.category.DEFAULT" />
+390-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:189:17-76
+390-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:189:27-73
+391            </intent-filter>
+392        </service>
+393
+394        <receiver
+394-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\4bf6a2c448f63c2e0876f764b9a7502b\transformed\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:28:9-35:20
+395            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+395-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\4bf6a2c448f63c2e0876f764b9a7502b\transformed\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:29:13-78
+396            android:exported="true"
+396-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\4bf6a2c448f63c2e0876f764b9a7502b\transformed\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:30:13-36
+397            android:permission="com.google.android.c2dm.permission.SEND" >
+397-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\4bf6a2c448f63c2e0876f764b9a7502b\transformed\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:31:13-73
+398            <intent-filter>
+398-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\4bf6a2c448f63c2e0876f764b9a7502b\transformed\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:32:13-34:29
+399                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+399-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\4bf6a2c448f63c2e0876f764b9a7502b\transformed\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:33:17-81
+399-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\4bf6a2c448f63c2e0876f764b9a7502b\transformed\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:33:25-78
+400            </intent-filter>
+401        </receiver>
+402        <!--
+403             FirebaseMessagingService performs security checks at runtime,
+404             but set to not exported to explicitly avoid allowing another app to call it.
+405        -->
+406        <service
+406-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\4bf6a2c448f63c2e0876f764b9a7502b\transformed\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:41:9-48:19
+407            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+407-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\4bf6a2c448f63c2e0876f764b9a7502b\transformed\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:42:13-82
+408            android:directBootAware="true"
+408-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\4bf6a2c448f63c2e0876f764b9a7502b\transformed\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:43:13-43
+409            android:exported="false" >
+409-->[com.google.firebase:firebase-messaging:22.0.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\4bf6a2c448f63c2e0876f764b9a7502b\transformed\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:44:13-37
+410            <intent-filter android:priority="-500" >
+410-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:151:13-153:29
+411                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+411-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:152:17-78
+411-->C:\Pradeep_work\Projects\Android Projects\tigwal_android-master\tigwal_android-master\app\src\main\AndroidManifest.xml:152:25-75
+412            </intent-filter>
+413        </service>
+414        <service
+414-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\4aa66fceef367ae3ec8e6963b891a316\transformed\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:29:9-35:19
+415            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+415-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\4aa66fceef367ae3ec8e6963b891a316\transformed\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:30:13-103
+416            android:exported="false" >
+416-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\4aa66fceef367ae3ec8e6963b891a316\transformed\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:31:13-37
+417            <meta-data
+417-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\4aa66fceef367ae3ec8e6963b891a316\transformed\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:32:13-34:39
+418                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+418-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\4aa66fceef367ae3ec8e6963b891a316\transformed\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:33:17-94
+419                android:value="cct" />
+419-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\4aa66fceef367ae3ec8e6963b891a316\transformed\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:34:17-36
+420        </service>
+421
+422        <provider
+422-->[com.google.firebase:firebase-common:20.0.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\c6e78dbd024d780dc0a06dfec8fa2a2c\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:26:9-31:39
+423            android:name="com.google.firebase.provider.FirebaseInitProvider"
+423-->[com.google.firebase:firebase-common:20.0.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\c6e78dbd024d780dc0a06dfec8fa2a2c\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:27:13-77
+424            android:authorities="com.tigwal.firebaseinitprovider"
+424-->[com.google.firebase:firebase-common:20.0.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\c6e78dbd024d780dc0a06dfec8fa2a2c\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:28:13-72
+425            android:directBootAware="true"
+425-->[com.google.firebase:firebase-common:20.0.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\c6e78dbd024d780dc0a06dfec8fa2a2c\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:29:13-43
+426            android:exported="false"
+426-->[com.google.firebase:firebase-common:20.0.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\c6e78dbd024d780dc0a06dfec8fa2a2c\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:30:13-37
+427            android:initOrder="100" />
+427-->[com.google.firebase:firebase-common:20.0.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\c6e78dbd024d780dc0a06dfec8fa2a2c\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:31:13-36
+428
+429        <activity
+429-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\3f7d7f99802908efd669f5f48faea1c3\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:23:9-26:75
+430            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+430-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\3f7d7f99802908efd669f5f48faea1c3\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:24:13-79
+431            android:exported="false"
+431-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\3f7d7f99802908efd669f5f48faea1c3\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:25:13-37
+432            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+432-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\3f7d7f99802908efd669f5f48faea1c3\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:26:13-72
+433
+434        <receiver
+434-->[com.google.android.gms:play-services-measurement:19.0.2] C:\Users\SINON TECH\.gradle\caches\transforms-3\63d0e3c13ea24b2759e1181894a8599a\transformed\jetified-play-services-measurement-19.0.2\AndroidManifest.xml:29:9-33:20
+435            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+435-->[com.google.android.gms:play-services-measurement:19.0.2] C:\Users\SINON TECH\.gradle\caches\transforms-3\63d0e3c13ea24b2759e1181894a8599a\transformed\jetified-play-services-measurement-19.0.2\AndroidManifest.xml:30:13-85
+436            android:enabled="true"
+436-->[com.google.android.gms:play-services-measurement:19.0.2] C:\Users\SINON TECH\.gradle\caches\transforms-3\63d0e3c13ea24b2759e1181894a8599a\transformed\jetified-play-services-measurement-19.0.2\AndroidManifest.xml:31:13-35
+437            android:exported="false" >
+437-->[com.google.android.gms:play-services-measurement:19.0.2] C:\Users\SINON TECH\.gradle\caches\transforms-3\63d0e3c13ea24b2759e1181894a8599a\transformed\jetified-play-services-measurement-19.0.2\AndroidManifest.xml:32:13-37
+438        </receiver>
+439
+440        <service
+440-->[com.google.android.gms:play-services-measurement:19.0.2] C:\Users\SINON TECH\.gradle\caches\transforms-3\63d0e3c13ea24b2759e1181894a8599a\transformed\jetified-play-services-measurement-19.0.2\AndroidManifest.xml:35:9-38:40
+441            android:name="com.google.android.gms.measurement.AppMeasurementService"
+441-->[com.google.android.gms:play-services-measurement:19.0.2] C:\Users\SINON TECH\.gradle\caches\transforms-3\63d0e3c13ea24b2759e1181894a8599a\transformed\jetified-play-services-measurement-19.0.2\AndroidManifest.xml:36:13-84
+442            android:enabled="true"
+442-->[com.google.android.gms:play-services-measurement:19.0.2] C:\Users\SINON TECH\.gradle\caches\transforms-3\63d0e3c13ea24b2759e1181894a8599a\transformed\jetified-play-services-measurement-19.0.2\AndroidManifest.xml:37:13-35
+443            android:exported="false" />
+443-->[com.google.android.gms:play-services-measurement:19.0.2] C:\Users\SINON TECH\.gradle\caches\transforms-3\63d0e3c13ea24b2759e1181894a8599a\transformed\jetified-play-services-measurement-19.0.2\AndroidManifest.xml:38:13-37
+444        <service
+444-->[com.google.android.gms:play-services-measurement:19.0.2] C:\Users\SINON TECH\.gradle\caches\transforms-3\63d0e3c13ea24b2759e1181894a8599a\transformed\jetified-play-services-measurement-19.0.2\AndroidManifest.xml:39:9-43:72
+445            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+445-->[com.google.android.gms:play-services-measurement:19.0.2] C:\Users\SINON TECH\.gradle\caches\transforms-3\63d0e3c13ea24b2759e1181894a8599a\transformed\jetified-play-services-measurement-19.0.2\AndroidManifest.xml:40:13-87
+446            android:enabled="true"
+446-->[com.google.android.gms:play-services-measurement:19.0.2] C:\Users\SINON TECH\.gradle\caches\transforms-3\63d0e3c13ea24b2759e1181894a8599a\transformed\jetified-play-services-measurement-19.0.2\AndroidManifest.xml:41:13-35
+447            android:exported="false"
+447-->[com.google.android.gms:play-services-measurement:19.0.2] C:\Users\SINON TECH\.gradle\caches\transforms-3\63d0e3c13ea24b2759e1181894a8599a\transformed\jetified-play-services-measurement-19.0.2\AndroidManifest.xml:42:13-37
+448            android:permission="android.permission.BIND_JOB_SERVICE" />
+448-->[com.google.android.gms:play-services-measurement:19.0.2] C:\Users\SINON TECH\.gradle\caches\transforms-3\63d0e3c13ea24b2759e1181894a8599a\transformed\jetified-play-services-measurement-19.0.2\AndroidManifest.xml:43:13-69
+449
+450        <provider
+450-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\c7036502b1979de6a66488262859e4fc\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+451            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+451-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\c7036502b1979de6a66488262859e4fc\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
+452            android:authorities="com.tigwal.lifecycle-process"
+452-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\c7036502b1979de6a66488262859e4fc\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+453            android:exported="false"
+453-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\c7036502b1979de6a66488262859e4fc\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+454            android:multiprocess="true" />
+454-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\SINON TECH\.gradle\caches\transforms-3\c7036502b1979de6a66488262859e4fc\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+455
+456        <service
+456-->[com.google.android.datatransport:transport-runtime:3.0.1] C:\Users\SINON TECH\.gradle\caches\transforms-3\c00fef2704ef1f1248dff345f9cf3bbb\transformed\jetified-transport-runtime-3.0.1\AndroidManifest.xml:26:9-30:19
+457            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+457-->[com.google.android.datatransport:transport-runtime:3.0.1] C:\Users\SINON TECH\.gradle\caches\transforms-3\c00fef2704ef1f1248dff345f9cf3bbb\transformed\jetified-transport-runtime-3.0.1\AndroidManifest.xml:27:13-117
+458            android:exported="false"
+458-->[com.google.android.datatransport:transport-runtime:3.0.1] C:\Users\SINON TECH\.gradle\caches\transforms-3\c00fef2704ef1f1248dff345f9cf3bbb\transformed\jetified-transport-runtime-3.0.1\AndroidManifest.xml:28:13-37
+459            android:permission="android.permission.BIND_JOB_SERVICE" >
+459-->[com.google.android.datatransport:transport-runtime:3.0.1] C:\Users\SINON TECH\.gradle\caches\transforms-3\c00fef2704ef1f1248dff345f9cf3bbb\transformed\jetified-transport-runtime-3.0.1\AndroidManifest.xml:29:13-69
+460        </service>
+461
+462        <receiver
+462-->[com.google.android.datatransport:transport-runtime:3.0.1] C:\Users\SINON TECH\.gradle\caches\transforms-3\c00fef2704ef1f1248dff345f9cf3bbb\transformed\jetified-transport-runtime-3.0.1\AndroidManifest.xml:32:9-34:40
+463            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+463-->[com.google.android.datatransport:transport-runtime:3.0.1] C:\Users\SINON TECH\.gradle\caches\transforms-3\c00fef2704ef1f1248dff345f9cf3bbb\transformed\jetified-transport-runtime-3.0.1\AndroidManifest.xml:33:13-132
+464            android:exported="false" />
+464-->[com.google.android.datatransport:transport-runtime:3.0.1] C:\Users\SINON TECH\.gradle\caches\transforms-3\c00fef2704ef1f1248dff345f9cf3bbb\transformed\jetified-transport-runtime-3.0.1\AndroidManifest.xml:34:13-37
+465
+466        <activity
+466-->[io.card:android-sdk:5.5.1] C:\Users\SINON TECH\.gradle\caches\transforms-3\426142a7d0faba783d00985218cef2f3\transformed\jetified-android-sdk-5.5.1\AndroidManifest.xml:20:9-22:66
+467            android:name="io.card.payment.CardIOActivity"
+467-->[io.card:android-sdk:5.5.1] C:\Users\SINON TECH\.gradle\caches\transforms-3\426142a7d0faba783d00985218cef2f3\transformed\jetified-android-sdk-5.5.1\AndroidManifest.xml:21:13-58
+468            android:configChanges="keyboardHidden|orientation" />
+468-->[io.card:android-sdk:5.5.1] C:\Users\SINON TECH\.gradle\caches\transforms-3\426142a7d0faba783d00985218cef2f3\transformed\jetified-android-sdk-5.5.1\AndroidManifest.xml:22:13-63
+469        <activity android:name="io.card.payment.DataEntryActivity" />
+469-->[io.card:android-sdk:5.5.1] C:\Users\SINON TECH\.gradle\caches\transforms-3\426142a7d0faba783d00985218cef2f3\transformed\jetified-android-sdk-5.5.1\AndroidManifest.xml:23:9-70
+469-->[io.card:android-sdk:5.5.1] C:\Users\SINON TECH\.gradle\caches\transforms-3\426142a7d0faba783d00985218cef2f3\transformed\jetified-android-sdk-5.5.1\AndroidManifest.xml:23:19-67
+470    </application>
+471
+472</manifest>

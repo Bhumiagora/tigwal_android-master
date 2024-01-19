@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="zero">%d إشعار جديد</item>
+    <item quantity="one">إشعار جديد واحد (%d)</item>
+    <item quantity="two">إشعاران جديدان (%d)</item>
+    <item quantity="few">%d إشعارات جديدة</item>
+    <item quantity="many">%d إشعارًا جديدًا</item>
+    <item quantity="other">%d إشعار جديد</item>
+  </plurals>
+    <string name="GOOGLE_ANDROID_PLACE_API_KEY">AIzaSyD0Sfv-8A0JEUqptRDoLNICIeQ3lKjPMoc</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"التوجه إلى المنزل"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"التنقل إلى أعلى"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"خيارات أكثر"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"تم"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"عرض الكل"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"اختيار تطبيق"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"إيقاف"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"تفعيل"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"حذف"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"فضاء"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"القائمة+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"بحث…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"محو طلب البحث"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"طلب بحث"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"البحث"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"إرسال طلب البحث"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"بحث صوتي"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"مشاركة مع"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"مشاركة مع <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"تصغير"</string>
+    <string name="accepted">موافق</string>
+    <string name="actionbar_title_address_on_card">العنوان الموجود في البطاقة</string>
+    <string name="add_location">إضافة موقع</string>
+    <string name="add_note">اضف ملاحظة</string>
+    <string name="add_rating">أضف التقييم</string>
+    <string name="add_review">قدم ملاحظاتك</string>
+    <string name="add_review_title">مراجعة</string>
+    <string name="add_to_cart">أضف إلى السلة</string>
+    <string name="address_is_required">الرجاء إدخال العنوان.</string>
+    <string name="address_title">العنوان :</string>
+    <string name="addtocart_success">أضف إلى عربة التسوق بنجاح.</string>
+    <string name="alert_un_supported_card_message">نوع البطاقة غير مدعوم</string>
+    <string name="alert_un_supported_card_title">تنبيه</string>
+    <string name="app_name">Tigwal</string>
+    <string name="app_version">نسخة التطبيق:</string>
+    <string name="arabic">العربية</string>
+    <string name="are_you_sure_you_want_exit">هل أنت متأكد أنك تريد الخروج؟</string>
+    <string name="are_you_sure_you_want_logout">هل أنت متأكد أنك تريد تسجيل الخروج؟</string>
+    <string name="are_you_sure_you_want_to_delete_cart">هل أنت متأكد أنك تريد حذف هذا البند؟</string>
+    <string name="available">الفترة المتاحة</string>
+    <string name="available_time_slot">الفترة الزمنية المتاحة :</string>
+    <string name="birthdate">تاريخ الميلاد</string>
+    <string name="booking_date">تاريخ الحجز :</string>
+    <string name="bottomsheet_action_expand_halfway">توسيع البطاقة السفلية</string>
+    <string name="bt_cid">الرمز الأمني</string>
+    <string name="bt_cvc">الرمز الأمني</string>
+    <string name="bt_cvn">الرمز الأمني</string>
+    <string name="bt_cvv">الرمز الأمني</string>
+    <string name="bt_cvv_invalid">%s غير صحيح </string>
+    <string name="bt_cvv_required">%s مطلوب</string>
+    <string name="bt_expiration_invalid">تاريخ انتهاء البطاقة غير صحيح</string>
+    <string name="bt_expiration_required">تاريخ انتهاء البطاقة مطلوب</string>
+    <string name="bt_form_hint_cvv">@string/bt_cvv</string>
+    <string name="bt_form_hint_expiration">تاريخ انتهاء البطاقة</string>
+    <string name="bt_month">شهر</string>
+    <string name="bt_year">سنة</string>
+    <string name="btn_title_confirm">تأكيد</string>
+    <string name="btn_title_save">حفظ</string>
+    <string name="business_icon_description">Business icon</string>
+    <string name="by">بواسطة</string>
+    <string name="camera">الكاميرا</string>
+    <string name="cancel">إلغاء</string>
+    <string name="cancel_order">الغاء الطلب</string>
+    <string name="cancel_order_u"><u>الغاء الطلب</u></string>
+    <string name="card_saved_before">تم حفظ بطاقتك من قبل ، لا يمكنك حفظها مرتين!</string>
+    <string name="cards">البطاقات</string>
+    <string name="cart">عربة التسوق</string>
+    <string name="cart_empty">عربة التسوق الخاصة بي فارغة</string>
+    <string name="category">الفئة</string>
+    <string name="category_name">اسم الفئة</string>
+    <string name="change_language">اللغة</string>
+    <string name="change_password">تغيير كلمة السر</string>
+    <string name="character_counter_content_description">تمّ إدخال %1$d حرف من إجمالي %2$d.</string>
+    <string name="character_counter_overflowed_content_description">تجاوز عدد الأحرف المسموح به %1$d من %2$d.</string>
+    <string name="chat">دردشة</string>
+    <string name="chat_empty">الدردشة فارغة</string>
+    <string name="check">التحقق من</string>
+    <string name="checkout">الدفع</string>
+    <string name="choose_the_language">اختر اللغة</string>
+    <string name="choose_your_language">اختر لغتك</string>
+    <string name="clear_text_end_icon_content_description">محو النص</string>
+    <string name="close">إغلاق</string>
+    <string name="code_expires_on" translatable="false">تنتهي صلاحية الكود في</string>
+    <string gender="unknown" name="com_facebook_device_auth_instructions">تفضل بزيارة &lt;b>facebook.com/device&lt;/b> وإدخال الرمز الموضح أعلاه.</string>
+    <string gender="unknown" name="com_facebook_image_download_unknown_error">حدث خطأ غير متوقع أثناء تنزيل صورة.</string>
+    <string gender="unknown" name="com_facebook_internet_permission_error_message">يتطلب تسجيل دخول WebView الحصول إلى إذن INTERNET</string>
+    <string gender="unknown" name="com_facebook_internet_permission_error_title">خطأ AndroidManifest</string>
+    <string gender="unknown" name="com_facebook_like_button_liked">أعجبك</string>
+    <string gender="unknown" name="com_facebook_like_button_not_liked">أعجبني</string>
+    <string gender="unknown" name="com_facebook_loading">جارٍ التحميل…</string>
+    <string gender="unknown" name="com_facebook_loginview_cancel_action">إلغاء</string>
+    <string gender="unknown" name="com_facebook_loginview_log_in_button">تسجيل الدخول</string>
+    <string gender="unknown" name="com_facebook_loginview_log_in_button_continue">متابعة بحساب فيسبوك</string>
+    <string gender="unknown" name="com_facebook_loginview_log_in_button_long">تسجيل الدخول بحساب فيسبوك</string>
+    <string gender="unknown" name="com_facebook_loginview_log_out_action">تسجيل الخروج</string>
+    <string gender="unknown" name="com_facebook_loginview_log_out_button">تسجيل الخروج</string>
+    <string gender="unknown" name="com_facebook_loginview_logged_in_as">تم تسجيل الدخول باسم: %1$s</string>
+    <string gender="unknown" name="com_facebook_loginview_logged_in_using_facebook">تم تسجيل الدخول باستخدام حساب فيسبوك</string>
+    <string gender="unknown" name="com_facebook_send_button_text">إرسال</string>
+    <string gender="unknown" name="com_facebook_share_button_text">مشاركة</string>
+    <string gender="unknown" name="com_facebook_smart_device_instructions">لربط حسابك، افتح تطبيق فيسبوك على جهازك المحمول وراجع الإشعارات.</string>
+    <string gender="unknown" name="com_facebook_smart_device_instructions_or">- أو -</string>
+    <string gender="unknown" name="com_facebook_smart_login_confirmation_cancel">لست أنت؟</string>
+    <string gender="unknown" name="com_facebook_smart_login_confirmation_continue_as">متابعة باسم %1$s</string>
+    <string gender="unknown" name="com_facebook_smart_login_confirmation_title">تأكيد تسجيل الدخول</string>
+    <string gender="unknown" name="com_facebook_tooltip_default">أنت المتحكم في الأمر - يمكنك اختيار المعلومات التي تود مشاركتها مع التطبيقات.</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"تفعيل"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"‏لن يعمل <ns1:g id="APP_NAME">%1$s</ns1:g> ما لم يتم تفعيل خدمات Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"‏تفعيل خدمات Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"تثبيت"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"‏لن يتم تشغيل <ns1:g id="APP_NAME">%1$s</ns1:g> بدون خدمات Google Play، والتي لا تتوفر على جهازك."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"‏الحصول على خدمات Google Play"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"‏مدى توفّر خدمات Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"‏خطأ في خدمات Google Play"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"‏لدى <ns1:g id="APP_NAME">%1$s</ns1:g> مشكلة في خدمات Google Play. يُرجى إعادة المحاولة."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"‏لن يتم تشغيل <ns1:g id="APP_NAME">%1$s</ns1:g> بدون خدمات Google Play التي لا يوفرها جهازك."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"تحديث"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"‏لن يتم تشغيل <ns1:g id="APP_NAME">%1$s</ns1:g> ما لم يتم تحديث خدمات Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"‏تحديث خدمات Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"‏لن يتم تشغيل <ns1:g id="APP_NAME">%1$s</ns1:g> بدون خدمات Google Play، والتي يتم تحديثها حاليًا."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"‏يجب توفر إصدار جديد من خدمات Google Play. سيتم تحديثها تلقائيًا قريبًا."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"فتح على الهاتف"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"تسجل الدخول"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"‏تسجيل الدخول عبر Google"</string>
+    <string name="con_password_hint">إعادة إدخال كلمة المرور*</string>
+    <string name="confirm_password">تأكيد كلمة المرور</string>
+    <string name="confirm_password_is_required">الرجاء إدخال تأكيد كلمة المرور.</string>
+    <string name="contiune_home">يكمل</string>
+    <string name="country">دولة</string>
+    <string name="currency_symbol">ر.ع.</string>
+    <string name="current_location">الموقع الحالي</string>
+    <string name="customer_aggrement">اتفاقية العميل</string>
+    <string name="data_not_found">لاتوجد بيانات</string>
+    <string name="default_country_code">+968</string>
+    <string name="delete_account">حذف الحساب</string>
+    <string name="delete_msg_account">هل أنت متأكد أنك تريد حذف حسابك بشكل دائم؟</string>
+    <string name="delete_saved_card_button_Cancel">إلغاء</string>
+    <string name="delete_saved_card_button_Delete">حذف</string>
+    <string name="delete_saved_card_msg">هل أنت متأكد من حذف البطاقة </string>
+    <string name="delete_saved_card_title">حذف البطاقة</string>
+    <string name="device_has_aproblem_in_connectivity_manager">يواجه الجهاز مشكلة في مدير الاتصال بالانترنت </string>
+    <string name="discount">تخفيض:</string>
+    <string name="dismiss">إلغاء</string>
+    <string name="do_you_want_signin">هل تريد أن تفعل تسجيل الدخول؟</string>
+    <string name="do_you_want_signin_cart">مطلوب تسجيل الدخول لإضافة خدمات إلى سلة التسوق.</string>
+    <string name="done">تم</string>
+    <string name="dont_receive_code">Don\'t تلقي الرمز?</string>
+    <string name="dummy_cms">ما هو لوريم إيبسوم؟ لوريم إيبسوم هو ببساطة نص شكلي يستخدم في صناعة الطباعة والتنضيد. كان Lorem Ipsum هو النص الوهمي القياسي في الصناعة منذ القرن الخامس عشر الميلادي ، عندما أخذت طابعة غير معروفة لوحًا / كان Lorem Ipsum هو النص الوهمي القياسي في الصناعة منذ القرن الخامس عشر الميلادي ، عندما أخذت طابعة غير معروفة لوح الطباعة</string>
+    <string name="edit_note">تعديل الملاحظة</string>
+    <string name="edittext_hint_CVV">الرمز الأمني</string>
+    <string name="edittext_hint_address_on_card">العنوان الموجود في البطاقة</string>
+    <string name="edittext_hint_card_number">رقم البطاقة</string>
+    <string name="edittext_hint_city">المدينة</string>
+    <string name="edittext_hint_email">الايميل</string>
+    <string name="edittext_hint_expiration_date">سنه/ شهر</string>
+    <string name="edittext_hint_line1">Line 1</string>
+    <string name="edittext_hint_line2">Line 2</string>
+    <string name="edittext_hint_name">الاسم</string>
+    <string name="edittext_hint_name_on_card">الاسم الموجود في البطاقة</string>
+    <string name="edittext_hint_phone_number">رقم الهاتق</string>
+    <string name="edittext_hint_state">الدولة</string>
+    <string name="edittext_hint_zip_code">Zip code</string>
+    <string name="email">البريد الالكتروني*</string>
+    <string name="email_id">عنوان الايميل*</string>
+    <string name="email_sent" translatable="false">تم إرسال رسالة بريد إلكتروني لـ</string>
+    <string name="english">English</string>
+    <string name="enter_coupon_code">أدخل رمز القسيمة</string>
+    <string name="enter_recovery_code">أدخل رمز الاسترداد</string>
+    <string name="enter_search_keyword">الرجاء إدخال كلمة البحث</string>
+    <string name="error_deleting_card_msg">لا يمكن حذف البطاقة في الوقت الحالي. يرجى المحاولة لاحقا.</string>
+    <string name="error_deleting_card_title">عذراً</string>
+    <string name="error_icon_content_description">خطأ</string>
+    <string name="explore_man">اكتشف عمان</string>
+    <string name="exposed_dropdown_menu_content_description">عرض القائمة المنسدلة</string>
+    <string name="extra_fees_alert_confirm_message_cancel">إلغاء</string>
+    <string name="extra_fees_alert_confirm_message_confirm">تأكيد</string>
+    <string name="extra_fees_alert_confirm_message_title">تأكيد الرسوم الإضافية</string>
+    <string name="extra_fees_alert_message">سوف تتم إضافة  %s لهذه العملية، إجمالي المبلغ المطلوب  %s</string>
+    <string name="facebook_app_id">1194597834664904</string>
+    <string name="facebook_client_token">fc9b9e933fb34f86b4cf2ac755ebb792</string>
+    <string name="fail_order">فشل الطلب</string>
+    <string name="failed_success">فشل الطلب</string>
+    <string name="faq">الأسئلة الشائعة</string>
+    <string name="fawry_cash_location">ب موقع لفوري
+باستخدام الرابط التالي لإستكمال عملية الدفع
+  </string>
+    <string name="fb_login_protocol_scheme">fb1194597834664904</string>
+    <string name="fcm_fallback_notification_channel_label">متنوعة</string>
+    <string name="filter">منقي</string>
+    <string name="forgot_password">هل نسيت كلمة السر</string>
+    <string name="forgot_password_with_u">هل نسيت كلمة السر؟</string>
+    <string name="four">1</string>
+    <string name="fresh_recommendation">اقتراح</string>
+    <string name="full_name">اسم*</string>
+    <string name="gallery">معرض الصور</string>
+    <string name="gender">جنس</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyD0Sfv-8A0JEUqptRDoLNICIeQ3lKjPMoc</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="help">المساعدة</string>
+    <string name="high_cost">التكلفة العالية</string>
+    <string name="home">الصفحة الرئيسية</string>
+    <string name="i_agree">أنا موافق</string>
+    <string name="iagree">أوفق على كل ما ورد</string>
+    <string name="icon_content_description">رمز مربع الحوار</string>
+    <string name="internet_connection_is_not_available">اتصال الإنترنت غير متوفر</string>
+    <string name="internet_connectivity_message">اتصال الإنترنت غير متوفر</string>
+    <string name="internet_connectivity_title">خطأ في الشبكة</string>
+    <string name="item_list">قائمة العناصر</string>
+    <string name="item_view_role_description">علامة تبويب</string>
+    <string name="jetski">مزلجة مائية</string>
+    <string name="key_sdkLanguage">key_sdkLanguage</string>
+    <string name="key_sdk_appearance_mode">key_sdk_appearance_mode</string>
+    <string name="key_sdk_transaction_currency">key_sdk_transaction_currency</string>
+    <string name="key_sdk_transaction_mode">key_sdk_transaction_mode</string>
+    <string name="legal">قانوني</string>
+    <string name="location">الموقع</string>
+    <string name="locations">الموقع</string>
+    <string name="login_failed">فشل عملية الدخول</string>
+    <string name="logout_small">تسجيل خروج</string>
+    <string name="low_cost">منخفض الكلفة</string>
+    <string name="luck_josef">لاك جوزيف</string>
+    <string name="material_clock_toggle_content_description">يُرجى اختيار صباحًا أو مساءً.</string>
+    <string name="material_hour_selection">تحديد الساعة</string>
+    <string name="material_hour_suffix">الساعة %1$s</string>
+    <string name="material_minute_selection">تحديد الدقائق</string>
+    <string name="material_minute_suffix">%1$s دقيقة</string>
+    <string name="material_timepicker_am">صباحًا</string>
+    <string name="material_timepicker_clock_mode_description">يُرجى التبديل إلى وضع الساعة لإدخال الوقت.</string>
+    <string name="material_timepicker_hour">الساعة</string>
+    <string name="material_timepicker_minute">دقيقة</string>
+    <string name="material_timepicker_pm">مساءً</string>
+    <string name="material_timepicker_select_time">اختيار الوقت</string>
+    <string name="material_timepicker_text_input_mode_description">يُرجى التبديل إلى وضع إدخال النص لإدخال الوقت.</string>
+    <string name="minimum_eight_characters">8 أحرف على الأقل</string>
+    <string name="minus">-</string>
+    <string name="mobile_number">رقم الهاتف*</string>
+    <string name="mobile_number_with_star">رقم الهاتف المحمول*</string>
+    <string name="mtrl_badge_numberless_content_description">إشعار جديد</string>
+    <string name="mtrl_chip_close_icon_content_description">إزالة %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">يبلغ عدد الإشعارات الجديدة أكثر من %1$d.</string>
+    <string name="mtrl_picker_a11y_next_month">التغيير إلى الشهر التالي</string>
+    <string name="mtrl_picker_a11y_prev_month">التغيير إلى الشهر السابق</string>
+    <string name="mtrl_picker_announce_current_selection">الاختيار الحالي: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">يُرجى اختيار تاريخ.</string>
+    <string name="mtrl_picker_date_header_unselected">التاريخ المحدَّد</string>
+    <string name="mtrl_picker_day_of_week_column_header">عمود الأيام: %1$s</string>
+    <string name="mtrl_picker_invalid_format">التنسيق غير صالح</string>
+    <string name="mtrl_picker_invalid_format_example">مثال: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">استخدام: %1$s</string>
+    <string name="mtrl_picker_invalid_range">النطاق غير صالح</string>
+    <string name="mtrl_picker_navigate_to_year_description">التنقل إلى العام %1$s</string>
+    <string name="mtrl_picker_out_of_range">خارج النطاق: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">تاريخ البدء – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – تاريخ الانتهاء</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">يُرجى اختيار نطاق زمني.</string>
+    <string name="mtrl_picker_range_header_unselected">تاريخ البدء - تاريخ الانتهاء</string>
+    <string name="mtrl_picker_save">حفظ</string>
+    <string name="mtrl_picker_text_input_date_hint">التاريخ</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">تاريخ الانتهاء</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">تاريخ البدء</string>
+    <string name="mtrl_picker_text_input_day_abbr">ي</string>
+    <string name="mtrl_picker_text_input_month_abbr">ش</string>
+    <string name="mtrl_picker_text_input_year_abbr">س</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">التبديل إلى وضع \"الإدخال في التقويم\"</string>
+    <string name="mtrl_picker_toggle_to_day_selection">انقر للتبديل إلى اختيار يوم</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">التبديل إلى وضع \"إدخال النص\"</string>
+    <string name="mtrl_picker_toggle_to_year_selection">انقر للتبديل إلى اختيار عام</string>
+    <string name="my_cart">عربة التسوق الخاصة بي</string>
+    <string name="name_is_required">الرجاء إدخال الاسم.</string>
+    <string name="name_with_star">الإ سم*</string>
+    <string msgid="6301633601645100427" name="nav_app_bar_navigate_up_description">"التنقل إلى أعلى"</string>
+    <string msgid="7456070600745802113" name="nav_app_bar_open_drawer_description">"فتح لائحة التنقل"</string>
+    <string name="new_and_confirm_password_miss_match">كلمة المرور الجديدة وتأكيد كلمة المرور غير متطابقين.</string>
+    <string name="new_password">كلمة المرور الجديده</string>
+    <string name="new_password_is_required">الرجاء إدخال كلمة المرور الجديدة.</string>
+    <string name="no">لا</string>
+    <string name="noInternetConnection">لا يوجد اتصال بالإنترنت</string>
+    <string name="noIternetConnection">لا يوجد اتصال بالإنترنت</string>
+    <string name="no_of_items">عدد الخدمات:</string>
+    <string name="note">ملاحظة</string>
+    <string name="notes">ملاحظات:</string>
+    <string name="notification">الإشعارات</string>
+    <string name="notification_empty">إشعاراتي فارغة</string>
+    <string name="odrreceived">طلب وارد</string>
+    <string name="odrredetails"><u>معاينة تفاصيل الطلب</u></string>
+    <string name="ok">موافق</string>
+    <string name="old_and_new_password_match">كلمة المرور القديمة غير متطابقة</string>
+    <string name="old_password">كلمة المرور القديمة</string>
+    <string name="old_password_is_required">الرجاء إدخال كلمة المرور القديمة.</string>
+    <string name="onGoing">جاري التنفيذ</string>
+    <string name="onGoingOrderTitle">الطلبات الجارية</string>
+    <string name="one">1</string>
+    <string name="one_number">رقم واحد</string>
+    <string name="ongoing_order_empty">الطلب الجاري فارغ</string>
+    <string name="or_login_with">أو تسجيل الدخول ب</string>
+    <string name="order_cancel_success">تم الغاء الطلب</string>
+    <string name="order_code">كودالطلب</string>
+    <string name="order_details">تفاصيل الطلب</string>
+    <string name="order_id">رقم التعريف الخاص بالطلب:</string>
+    <string name="order_status">حالة الطلب:</string>
+    <string name="order_summary">ملخص الطلب</string>
+    <string name="order_summary_u"><u>ملخص الطلب</u></string>
+    <string name="otp_cancel_dialog">لا</string>
+    <string name="otp_cancel_payment_message">هل تود إلغاء عملية الدفع؟</string>
+    <string name="otp_cancel_payment_title">إلغاء عملية الدفع</string>
+    <string name="otp_confirm_dialog">تأكيد</string>
+    <string name="otp_is_not_valid">أدخل كلمة المرور غير متطابقة.</string>
+    <string name="otp_is_required">الرجاء إدخال 6 أرقام كلمة المرور لمرة واحدة.</string>
+    <string name="otp_send_successfully">تم إرسال كلمة المرور لمرة واحدة بنجاح</string>
+    <string name="password_hint">كلمة المرور*</string>
+    <string name="password_message">*الرجاء إدخال  كلمة مرور صالحة \ على الأقل حرف كبير واحد ، وحرف صغير واحد ، ورقم واحد وطول 8 أحرف على الأقل</string>
+    <string name="password_recovery">استعادة كلمة السر</string>
+    <string name="password_recovery_message">سنرسل رمز استعادة كلمة المرور على عنوان البريد الإلكتروني هذا</string>
+    <string name="password_toggle_content_description">عرض كلمة المرور</string>
+    <string name="pastOrder">طلبات سابقه</string>
+    <string name="past_order_empty">الطلب السابق فارغ</string>
+    <string name="pay">ادفع</string>
+    <string name="pay_now">ادفع الآن</string>
+    <string name="payment_fail">فشلت عملية الدفع</string>
+    <string name="payment_in_progress">عملية الدفع قيد التنفيذ</string>
+    <string name="payment_option">خيار الدفع</string>
+    <string name="payment_status_alert_declined">مرفوض</string>
+    <string name="payment_status_alert_failed">فشل</string>
+    <string name="payment_status_alert_invalid">غير صالحة</string>
+    <string name="payment_status_alert_successful">ناجح</string>
+    <string name="payment_status_alert_timedout">انتهي الوقت</string>
+    <string name="payment_status_alert_unknown">غير معروف</string>
+    <string name="payment_summary">ملخص الدفع</string>
+    <string name="per_person">للشخص الواحد</string>
+    <string name="permision_denied">تم رفض الإذن</string>
+    <string name="phone_verification">التحقق من الهاتف</string>
+    <string name="places_autocomplete_clear_button">محو البحث</string>
+    <string name="places_autocomplete_label">اختيار مكان</string>
+    <string name="places_autocomplete_no_results_for_query">لم يتم العثور على نتائج عن %1$s</string>
+    <string name="places_autocomplete_search_hint">بحث</string>
+    <string name="places_cancel">إلغاء</string>
+    <string name="places_powered_by_google">‏بواسطة Google‏</string>
+    <string name="places_search_error">يتعذر تحميل نتائج البحث.</string>
+    <string name="places_try_again">إعادة المحاولة</string>
+    <string name="please_agree_with_policy">يرجى التحقق من الشروط والأحكام.</string>
+    <string name="please_enter_confirm_password">الرجاء إدخال تأكيد كلمة المرور.</string>
+    <string name="please_enter_couponcode">الرجاء إدخال رمز القسيمة</string>
+    <string name="please_enter_email">الرجاء إدخال عنوان البريد الإلكتروني.</string>
+    <string name="please_enter_message">الرجاء إدخال الرسالة.</string>
+    <string name="please_enter_mobile">الرجاء إدخال رقم الهاتف المحمول.</string>
+    <string name="please_enter_name">الرجاء إدخال الاسم</string>
+    <string name="please_enter_password">الرجاء إدخال كلمة المرور.</string>
+    <string name="please_enter_password_not_match">كلمة المرور وتأكيد كلمة المرور غير متطابقين.</string>
+    <string name="please_enter_reason">الرجاء إدخال سبب إلغاء الطلب.</string>
+    <string name="please_enter_review">الرجاء إدخال المراجعة</string>
+    <string name="please_enter_valid_email">يرجى إدخال عنوان بريد إلكتروني صحيح.</string>
+    <string name="please_select_booking_date">الرجاء تحديد تاريخ الحجز</string>
+    <string name="please_select_langauge">الرجاء تحديد اللغة.</string>
+    <string name="please_select_time_slot">الرجاء تحديد خانة الوقت</string>
+    <string name="plus">+</string>
+    <string name="price">السعر:</string>
+    <string name="privacy_policy">سياسة الخصوصيه</string>
+    <string name="product_added_already">الخدمة موجود في سلة التسوق بالفعل</string>
+    <string name="product_category">فئة الخدمات</string>
+    <string name="product_detail">تفاصيل الخدمة</string>
+    <string name="product_list">قائمة الخدمات</string>
+    <string name="product_list_empty">قائمة الخدمات فارغة</string>
+    <string name="product_name">اسم الخدمة</string>
+    <string name="profile">الملف الشخصي</string>
+    <string name="quantity">كمية</string>
+    <string name="quantity_title">الكمية :</string>
+    <string name="quate_limit_sms">تم تجاوز حصة الرسائل القصيرة</string>
+    <string name="rating">تقييم</string>
+    <string name="reason">السبب*</string>
+    <string name="related_product">المنتجات ذات الصلة</string>
+    <string name="resend_otp">إعادة إرسال كلمة المرور لمرة واحدة</string>
+    <string name="reset_filter">تصفية إعادة تعيين</string>
+    <string name="reset_password">إعادة تعيين كلمة المرور</string>
+    <string name="reset_password_message">ما لا يقل عن 8 أحرف بأحرف كبيرة وصغيرة وحرف خاص.</string>
+    <string name="retry">إعادة المحاولة</string>
+    <string name="sample_date">27 مارس 2022</string>
+    <string name="sample_id">12345234</string>
+    <string name="sample_price">$00</string>
+    <string name="sample_time">من 9:00 صباحًا إلى 10:00 صباحًا</string>
+    <string name="save">حفظ</string>
+    <string name="save_card">حفظ البطاقة</string>
+    <string name="sdk_error">خطأ</string>
+    <string name="sdk_not_configure_correctly">خطأ فى اعدادات ال SDK</string>
+    <string name="search">بحث</string>
+    <string name="search_dahboard">حدد موقع الخدمة</string>
+    <string name="search_empty">لم يتم العثور على نتائج</string>
+    <string name="search_location">اختر موقع</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"البحث"</string>
+    <string name="search_product_list">البحث في قائمة الخدمات</string>
+    <string name="select_currency_title">اختر العملة</string>
+    <string name="sendOrder">سنخبرك عندما يتم قبول طلبك !</string>
+    <string name="send_link_recovery">إرسال رمز الاسترداد</string>
+    <string name="service_provider_name">اسم مقدم الخدمة</string>
+    <string name="service_provider_title">اسم البائع :</string>
+    <string name="setting">الإعدادات</string>
+    <string name="share_app">شارك التطبيق</string>
+    <string name="sightseeing_tour">جولة سياحية</string>
+    <string name="signin">تسجيل الدخول</string>
+    <string name="signup">إنشاء حساب</string>
+    <string name="skip">تخطى</string>
+    <string name="some_error_ocurred">حدث خطأ ما. حاول مرة اخرى!</string>
+    <string name="special_characters">رمز خاص واحد على الأقل</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="sub_category_name">تصنيف فرعي</string>
+    <string name="submit">إرسال</string>
+    <string name="success_order">تم الطلب بنجاح</string>
+    <string name="support_chat">دعم الدردشة</string>
+    <string name="taxes">الضرائب:</string>
+    <string name="terms_and_condition">الشروط و الأحكام</string>
+    <string name="terms_conditions">الشروط و الاحكام</string>
+    <string name="textview_disclaimer_go_pay_checkouts">By enabling goPay, your card details will be saved with Tap Payments in order for you to get faster and more secure checkouts in multiple apps and websites</string>
+    <string name="textview_disclaimer_otp_sent_number">يرجى إدخال رمز التأكيد الذي تم إرساله إلى </string>
+    <string name="textview_disclaimer_save_card">للدفع الآمن والسريع ، احفظ بطاقتك</string>
+    <string name="textview_disclaimer_save_card_header_title">ادفع</string>
+    <string name="textview_disclaimer_save_card_info">لن يتم استخدام البطاقات المحفوظة إلا بموافقتك ، ويمكنك إزالتها في أي وقت.</string>
+    <string name="textview_placeholder_last_four_digits">••••%s</string>
+    <string name="textview_title_address_on_card">العنوان الموجود في البطاقة</string>
+    <string name="textview_title_country">الدولة</string>
+    <string name="textview_title_others">أخرى</string>
+    <string name="textview_title_personal_info">Your Personal Info</string>
+    <string name="textview_title_recent">تم الحفظ مؤخرًا</string>
+    <string name="textview_title_recent_cancel">إلغاء</string>
+    <string name="textview_title_recent_edit">تعديل</string>
+    <string name="textview_title_resend_again">إعادة إرسال</string>
+    <string name="textview_title_save_for_gopay">Save for goPay Checkouts</string>
+    <string name="textview_title_save_for_merchant">Save for %s Checkouts</string>
+    <string name="time_slot">فترة زمنيه:</string>
+    <string name="time_slot_not_found">لا توجد فتره متاحة</string>
+    <string name="toatal_price">السعر الكلي:</string>
+    <string name="tokenize">ادفع</string>
+    <string name="total_charges">الرسوم الإجمالية:</string>
+    <string name="total_items">إجمالي العناصر:</string>
+    <string name="total_price">السعر الإجمالي:</string>
+    <string name="two_date_cart">في سلة التسوق ، لا يمكنك إضافة خدمات ذات تواريخ مختلفة</string>
+    <string name="type_message">اكتب رسالتك هنا</string>
+    <string name="update">تحديث</string>
+    <string name="update_password">تحديث كلمة المرور</string>
+    <string name="update_profile_success">تم تحديث الملف الشخصي بنجاح</string>
+    <string name="upper_and_lowercase">أحرف كبيرة وصغيرة</string>
+    <string name="valid_sms_number">الرجاء تحديد رمز دولة صحيح</string>
+    <string name="validate_birthdate">يجب أن يكون العمر أكثر من 18 سنة يرجى إدخال تاريخ ميلاد صالح</string>
+    <string name="verify">التحقق</string>
+    <string name="verify_otp_message">تم إرسال رمز التحقق على رقم هاتفك المحمول\n</string>
+    <string name="verify_otp_message_email">لقد أرسلناها على عنوان بريدك الإلكتروني\n </string>
+    <string name="verify_otp_title">أدخل رمز التحقق</string>
+    <string name="view_all"><u>مشاهدة الكل</u></string>
+    <string name="with_your_fawry_pay_reference">تتضمن معلومات عن عملية الدفع بواسطة فوري.</string>
+    <string name="work_address">العنوان*</string>
+    <string name="write_notes_here">اكتب الملاحظات هنا..</string>
+    <string name="write_reason_here">اكتب السبب هنا…</string>
+    <string name="yes">نعم</string>
+    <string name="your_country">بلدك</string>
+    <string name="your_order_has_been_canceled">تم إلغاء طلبك</string>
+</resources>

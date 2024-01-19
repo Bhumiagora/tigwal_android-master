@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">813940828149-rqvfda0631n6fka5bae9nr7klnb3fbhe.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">813940828149</string>
+    <string name="google_api_key" translatable="false">AIzaSyAG-g-CY1WUp1UQJ11CpJgSzTKDdmZKvE8</string>
+    <string name="google_app_id" translatable="false">1:813940828149:android:6ba9b8b8314d4f5aa822bc</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAG-g-CY1WUp1UQJ11CpJgSzTKDdmZKvE8</string>
+    <string name="google_storage_bucket" translatable="false">tigwal.appspot.com</string>
+    <string name="project_id" translatable="false">tigwal</string>
+</resources>
